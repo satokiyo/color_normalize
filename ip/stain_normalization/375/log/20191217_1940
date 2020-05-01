@@ -1,0 +1,34 @@
+2019-12-17 19:40:04,298 - __main__ - [target] /mnt/f/03_Prog/stain_normalization/P02212
+2019-12-17 19:40:04,300 - __main__ - [source list]
+['/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PF_TMU_1217/cent375RGB/TMU/P00501',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PF_TMU_1217/cent375RGB/TMU/P00502',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PF_TMU_1217/cent375RGB/TMU/P00503',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PF_TMU_1217/cent375RGB/TMU/P00505',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PF_TMU_1217/cent375RGB/TMU/P00506',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PF_TMU_1217/cent375RGB/TMU/P00601']
+2019-12-17 19:40:04,308 - __main__ - [save dir] /mnt/f/02_Data/02_normalize_stain/output/Add_annotation_PF_TMU_1217/cent375N/TMU/Normalize_per_ROI/P02212
+2019-12-17 19:40:05,580 - __main__ - 
+
+2019-12-17 19:40:05,587 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PF_TMU_1217/cent375RGB/TMU/P00501
+2019-12-17 19:40:05,589 - __main__ - [per slide] 1.107s
+2019-12-17 19:40:18,218 - __main__ - 
+
+2019-12-17 19:40:18,221 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PF_TMU_1217/cent375RGB/TMU/P00502
+2019-12-17 19:40:18,223 - __main__ - [per slide] 12.62s
+2019-12-17 19:40:27,337 - __main__ - 
+
+2019-12-17 19:40:27,339 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PF_TMU_1217/cent375RGB/TMU/P00503
+2019-12-17 19:40:27,341 - __main__ - [per slide] 9.112s
+2019-12-17 19:40:32,885 - __main__ - 
+
+2019-12-17 19:40:32,888 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PF_TMU_1217/cent375RGB/TMU/P00505
+2019-12-17 19:40:32,890 - __main__ - [per slide] 5.542s
+2019-12-17 19:40:36,272 - __main__ - 
+
+2019-12-17 19:40:36,275 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PF_TMU_1217/cent375RGB/TMU/P00506
+2019-12-17 19:40:36,277 - __main__ - [per slide] 3.38s
+2019-12-17 19:40:47,043 - __main__ - 
+
+2019-12-17 19:40:47,046 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PF_TMU_1217/cent375RGB/TMU/P00601
+2019-12-17 19:40:47,048 - __main__ - [per slide] 10.77s
+2019-12-17 19:40:47,050 - __main__ - Finish! ( 42.58s )

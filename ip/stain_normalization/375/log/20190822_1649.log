@@ -1,0 +1,75 @@
+2019-08-22 16:49:03,387 - __main__ - [target] /mnt/d/03_Prog/stain_normalization/P02212
+2019-08-22 16:49:03,389 - __main__ - [source list]
+['/mnt/d/02_Data/02_normalize_stain/input/testdata/Cancer/P_test/P02501N1',
+ '/mnt/d/02_Data/02_normalize_stain/input/testdata/Cancer/P_test/P02501N1copy',
+ '/mnt/d/02_Data/02_normalize_stain/input/testdata/Cancer/P_test/P02501N2',
+ '/mnt/d/02_Data/02_normalize_stain/input/testdata/Cancer/P_test/P02501N2copy',
+ '/mnt/d/02_Data/02_normalize_stain/input/testdata/Cancer/P_test/P02502N1',
+ '/mnt/d/02_Data/02_normalize_stain/input/testdata/Cancer/P_test/P02502N1copy',
+ '/mnt/d/02_Data/02_normalize_stain/input/testdata/Cancer/P_test/P02502N2',
+ '/mnt/d/02_Data/02_normalize_stain/input/testdata/Cancer/P_test/P02502N2copy',
+ '/mnt/d/02_Data/02_normalize_stain/input/testdata/Cancer/P_test/P02503N1',
+ '/mnt/d/02_Data/02_normalize_stain/input/testdata/Cancer/P_test/P02503N1copy',
+ '/mnt/d/02_Data/02_normalize_stain/input/testdata/Cancer/P_test/P02503N2',
+ '/mnt/d/02_Data/02_normalize_stain/input/testdata/Cancer/P_test/P02503N2copy',
+ '/mnt/d/02_Data/02_normalize_stain/input/testdata/Cancer/P_test/P02504N1',
+ '/mnt/d/02_Data/02_normalize_stain/input/testdata/Cancer/P_test/P02504N1copy',
+ '/mnt/d/02_Data/02_normalize_stain/input/testdata/Cancer/P_test/P02504N2',
+ '/mnt/d/02_Data/02_normalize_stain/input/testdata/Cancer/P_test/P02504N2copy',
+ '/mnt/d/02_Data/02_normalize_stain/input/testdata/Cancer/P_test/P02505N1',
+ '/mnt/d/02_Data/02_normalize_stain/input/testdata/Cancer/P_test/P02505N1copy',
+ '/mnt/d/02_Data/02_normalize_stain/input/testdata/Cancer/P_test/P02505N2',
+ '/mnt/d/02_Data/02_normalize_stain/input/testdata/Cancer/P_test/P02505N2copy',
+ '/mnt/d/02_Data/02_normalize_stain/input/testdata/Cancer/P_test/P02506N1',
+ '/mnt/d/02_Data/02_normalize_stain/input/testdata/Cancer/P_test/P02506N1copy',
+ '/mnt/d/02_Data/02_normalize_stain/input/testdata/Cancer/P_test/P02506N2',
+ '/mnt/d/02_Data/02_normalize_stain/input/testdata/Cancer/P_test/P02506N2copy',
+ '/mnt/d/02_Data/02_normalize_stain/input/testdata/Cancer/P_test/P02507N1',
+ '/mnt/d/02_Data/02_normalize_stain/input/testdata/Cancer/P_test/P02507N1copy',
+ '/mnt/d/02_Data/02_normalize_stain/input/testdata/Cancer/P_test/P02507N2',
+ '/mnt/d/02_Data/02_normalize_stain/input/testdata/Cancer/P_test/P02507N2copy',
+ '/mnt/d/02_Data/02_normalize_stain/input/testdata/Cancer/P_test/P02508N1',
+ '/mnt/d/02_Data/02_normalize_stain/input/testdata/Cancer/P_test/P02508N1copy',
+ '/mnt/d/02_Data/02_normalize_stain/input/testdata/Cancer/P_test/P02508N2',
+ '/mnt/d/02_Data/02_normalize_stain/input/testdata/Cancer/P_test/P02508N2copy',
+ '/mnt/d/02_Data/02_normalize_stain/input/testdata/Cancer/P_test/P02509N1',
+ '/mnt/d/02_Data/02_normalize_stain/input/testdata/Cancer/P_test/P02509N1copy',
+ '/mnt/d/02_Data/02_normalize_stain/input/testdata/Cancer/P_test/P02509N2',
+ '/mnt/d/02_Data/02_normalize_stain/input/testdata/Cancer/P_test/P02509N2copy',
+ '/mnt/d/02_Data/02_normalize_stain/input/testdata/Cancer/P_test/P02510N1',
+ '/mnt/d/02_Data/02_normalize_stain/input/testdata/Cancer/P_test/P02510N1copy',
+ '/mnt/d/02_Data/02_normalize_stain/input/testdata/Cancer/P_test/P02510N2',
+ '/mnt/d/02_Data/02_normalize_stain/input/testdata/Cancer/P_test/P02510N2copy',
+ '/mnt/d/02_Data/02_normalize_stain/input/testdata/Cancer/P_test/P02511N1',
+ '/mnt/d/02_Data/02_normalize_stain/input/testdata/Cancer/P_test/P02511N1copy']
+2019-08-22 16:49:03,449 - __main__ - [save dir] /mnt/d/02_Data/02_normalize_stain/output/testdata/Cancer/P_test/Normalize_per_ROI/target-P02212
+2019-08-22 16:49:13,430 - __main__.setup_normalizer - [Fitting values]
+2019-08-22 16:49:13,431 - __main__.setup_normalizer - [target W (OD)]
+array([[0.55806723, 0.72234329, 0.40838848],
+       [0.29010368, 0.84673842, 0.4459528 ]])
+2019-08-22 16:49:13,434 - __main__.setup_normalizer - [target 99 percentile in H]
+array([[2.91112732, 1.21991322]])
+2019-08-22 16:49:13,456 - __main__.ImageGenerator - /mnt/d/02_Data/02_normalize_stain/input/testdata/Cancer/P_test/P02501N1 is local dir...
+2019-08-22 16:49:13,902 - __main__.normalize - Normalizing /mnt/d/02_Data/02_normalize_stain/input/testdata/Cancer/P_test/P02501N1/P02501N1_2804_6603_class_0.jpg
+2019-08-22 16:49:15,170 - __main__ - save /mnt/d/02_Data/02_normalize_stain/output/testdata/Cancer/P_test/Normalize_per_ROI/target-P02212/P_test/P02501N1/P02501N1_2804_6603_class_0.jpg
+2019-08-22 16:49:15,324 - __main__.normalize - Normalizing /mnt/d/02_Data/02_normalize_stain/input/testdata/Cancer/P_test/P02501N1/P02501N1_2992_6415_class_0.jpg
+2019-08-22 16:49:16,615 - __main__ - save /mnt/d/02_Data/02_normalize_stain/output/testdata/Cancer/P_test/Normalize_per_ROI/target-P02212/P_test/P02501N1/P02501N1_2992_6415_class_0.jpg
+2019-08-22 16:49:16,814 - __main__.normalize - Normalizing /mnt/d/02_Data/02_normalize_stain/input/testdata/Cancer/P_test/P02501N1/P02501N1_2992_6603_class_0.jpg
+2019-08-22 16:49:18,120 - __main__ - save /mnt/d/02_Data/02_normalize_stain/output/testdata/Cancer/P_test/Normalize_per_ROI/target-P02212/P_test/P02501N1/P02501N1_2992_6603_class_0.jpg
+2019-08-22 16:49:18,207 - __main__.normalize - Normalizing /mnt/d/02_Data/02_normalize_stain/input/testdata/Cancer/P_test/P02501N1/P02501N1_2992_6790_class_0.jpg
+2019-08-22 16:49:19,490 - __main__ - save /mnt/d/02_Data/02_normalize_stain/output/testdata/Cancer/P_test/Normalize_per_ROI/target-P02212/P_test/P02501N1/P02501N1_2992_6790_class_0.jpg
+2019-08-22 16:49:19,607 - __main__.normalize - Normalizing /mnt/d/02_Data/02_normalize_stain/input/testdata/Cancer/P_test/P02501N1/P02501N1_2992_7353_class_0.jpg
+2019-08-22 16:49:20,862 - __main__ - save /mnt/d/02_Data/02_normalize_stain/output/testdata/Cancer/P_test/Normalize_per_ROI/target-P02212/P_test/P02501N1/P02501N1_2992_7353_class_0.jpg
+2019-08-22 16:49:21,024 - __main__.normalize - Normalizing /mnt/d/02_Data/02_normalize_stain/input/testdata/Cancer/P_test/P02501N1/P02501N1_3179_6415_class_0.jpg
+2019-08-22 16:49:22,298 - __main__ - save /mnt/d/02_Data/02_normalize_stain/output/testdata/Cancer/P_test/Normalize_per_ROI/target-P02212/P_test/P02501N1/P02501N1_3179_6415_class_0.jpg
+2019-08-22 16:49:22,459 - __main__.normalize - Normalizing /mnt/d/02_Data/02_normalize_stain/input/testdata/Cancer/P_test/P02501N1/P02501N1_3179_6603_class_0.jpg
+2019-08-22 16:49:23,760 - __main__ - save /mnt/d/02_Data/02_normalize_stain/output/testdata/Cancer/P_test/Normalize_per_ROI/target-P02212/P_test/P02501N1/P02501N1_3179_6603_class_0.jpg
+2019-08-22 16:49:23,930 - __main__.normalize - Normalizing /mnt/d/02_Data/02_normalize_stain/input/testdata/Cancer/P_test/P02501N1/P02501N1_3179_6790_class_0.jpg
+2019-08-22 16:49:25,246 - __main__ - save /mnt/d/02_Data/02_normalize_stain/output/testdata/Cancer/P_test/Normalize_per_ROI/target-P02212/P_test/P02501N1/P02501N1_3179_6790_class_0.jpg
+2019-08-22 16:49:25,362 - __main__.normalize - Normalizing /mnt/d/02_Data/02_normalize_stain/input/testdata/Cancer/P_test/P02501N1/P02501N1_3179_6978_class_0.jpg
+2019-08-22 16:49:26,620 - __main__ - save /mnt/d/02_Data/02_normalize_stain/output/testdata/Cancer/P_test/Normalize_per_ROI/target-P02212/P_test/P02501N1/P02501N1_3179_6978_class_0.jpg
+2019-08-22 16:49:26,743 - __main__.normalize - Normalizing /mnt/d/02_Data/02_normalize_stain/input/testdata/Cancer/P_test/P02501N1/P02501N1_3179_7165_class_0.jpg
+2019-08-22 16:49:28,005 - __main__ - save /mnt/d/02_Data/02_normalize_stain/output/testdata/Cancer/P_test/Normalize_per_ROI/target-P02212/P_test/P02501N1/P02501N1_3179_7165_class_0.jpg
+2019-08-22 16:49:28,029 - __main__.normalize - Normalizing /mnt/d/02_Data/02_normalize_stain/input/testdata/Cancer/P_test/P02501N1/P02501N1_3179_7353_class_0.jpg
+2019-08-22 16:49:29,304 - __main__ - save /mnt/d/02_Data/02_normalize_stain/output/testdata/Cancer/P_test/Normalize_per_ROI/target-P02212/P_test/P02501N1/P02501N1_3179_7353_class_0.jpg
+2019-08-22 16:49:29,504 - __main__.normalize - Normalizing /mnt/d/02_Data/02_normalize_stain/input/testdata/Cancer/P_test/P02501N1/P02501N1_3367_6228_class_0.jpg

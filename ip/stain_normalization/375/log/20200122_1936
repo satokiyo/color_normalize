@@ -1,0 +1,54 @@
+2020-01-22 19:36:44,460 - __main__ - [target] /mnt/f/03_Prog/stain_normalization/P02212
+2020-01-22 19:36:44,463 - __main__ - [source list]
+['/mnt/f/02_Data/02_normalize_stain/input/HrPINanalys/5p375RGB/Normal/TN0027N1',
+ '/mnt/f/02_Data/02_normalize_stain/input/HrPINanalys/5p375RGB/Normal/TN0034N1',
+ '/mnt/f/02_Data/02_normalize_stain/input/HrPINanalys/5p375RGB/Normal/TN0038N1',
+ '/mnt/f/02_Data/02_normalize_stain/input/HrPINanalys/5p375RGB/Normal/TN0040N1',
+ '/mnt/f/02_Data/02_normalize_stain/input/HrPINanalys/5p375RGB/Normal/TN0069N1',
+ '/mnt/f/02_Data/02_normalize_stain/input/HrPINanalys/5p375RGB/Normal/TN0074N1',
+ '/mnt/f/02_Data/02_normalize_stain/input/HrPINanalys/5p375RGB/Normal/TN0078N1',
+ '/mnt/f/02_Data/02_normalize_stain/input/HrPINanalys/5p375RGB/Normal/TN0110N1',
+ '/mnt/f/02_Data/02_normalize_stain/input/HrPINanalys/5p375RGB/Normal/TN0113N1',
+ '/mnt/f/02_Data/02_normalize_stain/input/HrPINanalys/5p375RGB/Normal/TN0147N1']
+2020-01-22 19:36:44,478 - __main__ - [save dir] /mnt/f/02_Data/02_normalize_stain/output/HrPINanalys/5p375N/Normal/Normalize_per_ROI/P02212
+2020-01-22 19:37:01,007 - __main__ - 
+
+2020-01-22 19:37:01,010 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/HrPINanalys/5p375RGB/Normal/TN0027N1
+2020-01-22 19:37:01,012 - __main__ - [per slide] 16.01s
+2020-01-22 19:37:07,250 - __main__ - 
+
+2020-01-22 19:37:07,253 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/HrPINanalys/5p375RGB/Normal/TN0034N1
+2020-01-22 19:37:07,255 - __main__ - [per slide] 6.237s
+2020-01-22 19:37:22,238 - __main__ - 
+
+2020-01-22 19:37:22,241 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/HrPINanalys/5p375RGB/Normal/TN0038N1
+2020-01-22 19:37:22,243 - __main__ - [per slide] 14.98s
+2020-01-22 19:37:27,592 - __main__ - 
+
+2020-01-22 19:37:27,594 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/HrPINanalys/5p375RGB/Normal/TN0040N1
+2020-01-22 19:37:27,596 - __main__ - [per slide] 5.347s
+2020-01-22 19:37:35,180 - __main__ - 
+
+2020-01-22 19:37:35,183 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/HrPINanalys/5p375RGB/Normal/TN0069N1
+2020-01-22 19:37:35,185 - __main__ - [per slide] 7.582s
+2020-01-22 19:37:44,818 - __main__ - 
+
+2020-01-22 19:37:44,821 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/HrPINanalys/5p375RGB/Normal/TN0074N1
+2020-01-22 19:37:44,823 - __main__ - [per slide] 9.632s
+2020-01-22 19:37:48,112 - __main__ - 
+
+2020-01-22 19:37:48,114 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/HrPINanalys/5p375RGB/Normal/TN0078N1
+2020-01-22 19:37:48,117 - __main__ - [per slide] 3.287s
+2020-01-22 19:38:02,192 - __main__ - 
+
+2020-01-22 19:38:02,195 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/HrPINanalys/5p375RGB/Normal/TN0110N1
+2020-01-22 19:38:02,196 - __main__ - [per slide] 14.07s
+2020-01-22 19:38:13,272 - __main__ - 
+
+2020-01-22 19:38:13,275 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/HrPINanalys/5p375RGB/Normal/TN0113N1
+2020-01-22 19:38:13,277 - __main__ - [per slide] 11.07s
+2020-01-22 19:38:18,883 - __main__ - 
+
+2020-01-22 19:38:18,886 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/HrPINanalys/5p375RGB/Normal/TN0147N1
+2020-01-22 19:38:18,888 - __main__ - [per slide] 5.604s
+2020-01-22 19:38:18,891 - __main__ - Finish! ( 93.89s )

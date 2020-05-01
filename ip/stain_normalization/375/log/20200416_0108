@@ -1,0 +1,19 @@
+2020-04-16 01:08:25,619 - __main__ - [target] /media/prostate/20200414_prostate_normalize_ite_fix_lumithres0.8_out_shorttissue_flag/color_normalization_ite_fix_lumthres0.8_out_shorttissue_flag/v4_dai2ki_color_normalization_modified_version/ip/stain_normalization/P02212
+2020-04-16 01:08:25,619 - __main__ - [source list]
+['/media/prostate/20200414_prostate_normalize_ite_fix_lumithres0.8_out_shorttissue_flag/color_normalization_ite_fix_lumthres0.8_out_shorttissue_flag/v4_dai2ki_color_normalization_modified_version/ip/5p375RGB/EXCEPTION',
+ '/media/prostate/20200414_prostate_normalize_ite_fix_lumithres0.8_out_shorttissue_flag/color_normalization_ite_fix_lumthres0.8_out_shorttissue_flag/v4_dai2ki_color_normalization_modified_version/ip/5p375RGB/PE',
+ '/media/prostate/20200414_prostate_normalize_ite_fix_lumithres0.8_out_shorttissue_flag/color_normalization_ite_fix_lumthres0.8_out_shorttissue_flag/v4_dai2ki_color_normalization_modified_version/ip/5p375RGB/PS']
+2020-04-16 01:08:25,620 - __main__ - [save dir] /media/prostate/20200414_prostate_normalize_ite_fix_lumithres0.8_out_shorttissue_flag/color_normalization_ite_fix_lumthres0.8_out_shorttissue_flag/v4_dai2ki_color_normalization_modified_version/out/20200415test_refactor/5p375N/Normalize_per_ROI/P02212
+2020-04-16 01:08:26,008 - __main__ - 
+
+2020-04-16 01:08:26,008 - __main__ - [slide dir] /media/prostate/20200414_prostate_normalize_ite_fix_lumithres0.8_out_shorttissue_flag/color_normalization_ite_fix_lumthres0.8_out_shorttissue_flag/v4_dai2ki_color_normalization_modified_version/ip/5p375RGB/EXCEPTION
+2020-04-16 01:08:26,008 - __main__ - [per slide] 0.3815s
+2020-04-16 01:08:29,138 - __main__ - 
+
+2020-04-16 01:08:29,139 - __main__ - [slide dir] /media/prostate/20200414_prostate_normalize_ite_fix_lumithres0.8_out_shorttissue_flag/color_normalization_ite_fix_lumthres0.8_out_shorttissue_flag/v4_dai2ki_color_normalization_modified_version/ip/5p375RGB/PE
+2020-04-16 01:08:29,139 - __main__ - [per slide] 3.13s
+2020-04-16 01:08:31,987 - __main__ - 
+
+2020-04-16 01:08:31,987 - __main__ - [slide dir] /media/prostate/20200414_prostate_normalize_ite_fix_lumithres0.8_out_shorttissue_flag/color_normalization_ite_fix_lumthres0.8_out_shorttissue_flag/v4_dai2ki_color_normalization_modified_version/ip/5p375RGB/PS
+2020-04-16 01:08:31,987 - __main__ - [per slide] 2.848s
+2020-04-16 01:08:31,987 - __main__ - Finish! ( 6.362s )

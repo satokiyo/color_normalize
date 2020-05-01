@@ -1,0 +1,98 @@
+2020-01-06 19:53:16,097 - __main__ - [target] /mnt/f/03_Prog/stain_normalization/P02212
+2020-01-06 19:53:16,101 - __main__ - [source list]
+['/mnt/f/02_Data/02_normalize_stain/input/0106_boukou/5p375RGB/PM/PM0201']
+2020-01-06 19:53:16,103 - __main__ - [save dir] /mnt/f/02_Data/02_normalize_stain/output/0106_boukou/5p375N/PM/Normalize_per_ROI/P02212
+2020-01-06 19:53:19,951 - __main__ - 
+
+2020-01-06 19:53:19,954 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/0106_boukou/5p375RGB/PM/PM0201
+2020-01-06 19:53:19,956 - __main__ - [per slide] 3.674s
+2020-01-06 19:53:19,959 - __main__ - Finish! ( 3.687s )
+2020-01-06 19:53:24,070 - __main__ - [target] /mnt/f/03_Prog/stain_normalization/P02212
+2020-01-06 19:53:24,072 - __main__ - [source list]
+['/mnt/f/02_Data/02_normalize_stain/input/0106_boukou/5p375RGB/PT/PT01107',
+ '/mnt/f/02_Data/02_normalize_stain/input/0106_boukou/5p375RGB/PT/PT01202',
+ '/mnt/f/02_Data/02_normalize_stain/input/0106_boukou/5p375RGB/PT/PT01203',
+ '/mnt/f/02_Data/02_normalize_stain/input/0106_boukou/5p375RGB/PT/PT01205',
+ '/mnt/f/02_Data/02_normalize_stain/input/0106_boukou/5p375RGB/PT/PT01304',
+ '/mnt/f/02_Data/02_normalize_stain/input/0106_boukou/5p375RGB/PT/PT01305',
+ '/mnt/f/02_Data/02_normalize_stain/input/0106_boukou/5p375RGB/PT/PT01312',
+ '/mnt/f/02_Data/02_normalize_stain/input/0106_boukou/5p375RGB/PT/PT02404',
+ '/mnt/f/02_Data/02_normalize_stain/input/0106_boukou/5p375RGB/PT/PT04405',
+ '/mnt/f/02_Data/02_normalize_stain/input/0106_boukou/5p375RGB/PT/PT04604',
+ '/mnt/f/02_Data/02_normalize_stain/input/0106_boukou/5p375RGB/PT/PT07103',
+ '/mnt/f/02_Data/02_normalize_stain/input/0106_boukou/5p375RGB/PT/PT07401',
+ '/mnt/f/02_Data/02_normalize_stain/input/0106_boukou/5p375RGB/PT/PT07403',
+ '/mnt/f/02_Data/02_normalize_stain/input/0106_boukou/5p375RGB/PT/PT08005',
+ '/mnt/f/02_Data/02_normalize_stain/input/0106_boukou/5p375RGB/PT/PT08701',
+ '/mnt/f/02_Data/02_normalize_stain/input/0106_boukou/5p375RGB/PT/PT09902',
+ '/mnt/f/02_Data/02_normalize_stain/input/0106_boukou/5p375RGB/PT/PT10002']
+2020-01-06 19:53:24,088 - __main__ - [save dir] /mnt/f/02_Data/02_normalize_stain/output/0106_boukou/5p375N/PT/Normalize_per_ROI/P02212
+2020-01-06 19:53:27,508 - __main__ - 
+
+2020-01-06 19:53:27,511 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/0106_boukou/5p375RGB/PT/PT01107
+2020-01-06 19:53:27,512 - __main__ - [per slide] 3.256s
+2020-01-06 19:53:31,357 - __main__ - 
+
+2020-01-06 19:53:31,359 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/0106_boukou/5p375RGB/PT/PT01202
+2020-01-06 19:53:31,361 - __main__ - [per slide] 3.843s
+2020-01-06 19:53:37,547 - __main__ - 
+
+2020-01-06 19:53:37,549 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/0106_boukou/5p375RGB/PT/PT01203
+2020-01-06 19:53:37,552 - __main__ - [per slide] 6.184s
+2020-01-06 19:53:43,774 - __main__ - 
+
+2020-01-06 19:53:43,777 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/0106_boukou/5p375RGB/PT/PT01205
+2020-01-06 19:53:43,779 - __main__ - [per slide] 6.22s
+2020-01-06 19:53:49,971 - __main__ - 
+
+2020-01-06 19:53:49,974 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/0106_boukou/5p375RGB/PT/PT01304
+2020-01-06 19:53:49,976 - __main__ - [per slide] 6.19s
+2020-01-06 19:53:50,837 - __main__ - 
+
+2020-01-06 19:53:50,844 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/0106_boukou/5p375RGB/PT/PT01305
+2020-01-06 19:53:50,846 - __main__ - [per slide] 0.859s
+2020-01-06 19:53:54,080 - __main__ - 
+
+2020-01-06 19:53:54,083 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/0106_boukou/5p375RGB/PT/PT01312
+2020-01-06 19:53:54,084 - __main__ - [per slide] 3.23s
+2020-01-06 19:53:57,354 - __main__ - 
+
+2020-01-06 19:53:57,357 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/0106_boukou/5p375RGB/PT/PT02404
+2020-01-06 19:53:57,358 - __main__ - [per slide] 3.268s
+2020-01-06 19:54:00,353 - __main__ - 
+
+2020-01-06 19:54:00,356 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/0106_boukou/5p375RGB/PT/PT04405
+2020-01-06 19:54:00,358 - __main__ - [per slide] 2.992s
+2020-01-06 19:54:04,410 - __main__ - 
+
+2020-01-06 19:54:04,413 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/0106_boukou/5p375RGB/PT/PT04604
+2020-01-06 19:54:04,415 - __main__ - [per slide] 4.051s
+2020-01-06 19:54:07,469 - __main__ - 
+
+2020-01-06 19:54:07,470 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/0106_boukou/5p375RGB/PT/PT07103
+2020-01-06 19:54:07,472 - __main__ - [per slide] 3.052s
+2020-01-06 19:54:10,565 - __main__ - 
+
+2020-01-06 19:54:10,568 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/0106_boukou/5p375RGB/PT/PT07401
+2020-01-06 19:54:10,569 - __main__ - [per slide] 3.091s
+2020-01-06 19:54:11,417 - __main__ - 
+
+2020-01-06 19:54:11,423 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/0106_boukou/5p375RGB/PT/PT07403
+2020-01-06 19:54:11,425 - __main__ - [per slide] 0.8451s
+2020-01-06 19:54:14,748 - __main__ - 
+
+2020-01-06 19:54:14,750 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/0106_boukou/5p375RGB/PT/PT08005
+2020-01-06 19:54:14,752 - __main__ - [per slide] 3.319s
+2020-01-06 19:54:18,346 - __main__ - 
+
+2020-01-06 19:54:18,348 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/0106_boukou/5p375RGB/PT/PT08701
+2020-01-06 19:54:18,350 - __main__ - [per slide] 3.592s
+2020-01-06 19:54:21,912 - __main__ - 
+
+2020-01-06 19:54:21,914 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/0106_boukou/5p375RGB/PT/PT09902
+2020-01-06 19:54:21,916 - __main__ - [per slide] 3.56s
+2020-01-06 19:54:24,830 - __main__ - 
+
+2020-01-06 19:54:24,833 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/0106_boukou/5p375RGB/PT/PT10002
+2020-01-06 19:54:24,834 - __main__ - [per slide] 2.912s
+2020-01-06 19:54:24,836 - __main__ - Finish! ( 60.59s )

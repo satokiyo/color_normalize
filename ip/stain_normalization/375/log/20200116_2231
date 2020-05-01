@@ -1,0 +1,84 @@
+2020-01-16 22:31:57,972 - __main__ - [target] /mnt/f/03_Prog/stain_normalization/P02212
+2020-01-16 22:31:57,974 - __main__ - [source list]
+['/mnt/f/02_Data/02_normalize_stain/input/Add_anntotation_PH_PCHplusPIN/5p375RGB/PCH/PCH0102',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_anntotation_PH_PCHplusPIN/5p375RGB/PCH/PCH0103',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_anntotation_PH_PCHplusPIN/5p375RGB/PCH/PCH0104',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_anntotation_PH_PCHplusPIN/5p375RGB/PCH/PCH0108',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_anntotation_PH_PCHplusPIN/5p375RGB/PCH/PCH0201',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_anntotation_PH_PCHplusPIN/5p375RGB/PCH/PCH0206',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_anntotation_PH_PCHplusPIN/5p375RGB/PCH/PCH0207',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_anntotation_PH_PCHplusPIN/5p375RGB/PCH/PCH0209',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_anntotation_PH_PCHplusPIN/5p375RGB/PCH/PCH0214',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_anntotation_PH_PCHplusPIN/5p375RGB/PCH/PCH0302',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_anntotation_PH_PCHplusPIN/5p375RGB/PCH/PCH0304',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_anntotation_PH_PCHplusPIN/5p375RGB/PCH/PCH0306',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_anntotation_PH_PCHplusPIN/5p375RGB/PCH/PCH0310',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_anntotation_PH_PCHplusPIN/5p375RGB/PCH/PCH0311',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_anntotation_PH_PCHplusPIN/5p375RGB/PCH/PCH0508',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_anntotation_PH_PCHplusPIN/5p375RGB/PCH/PCH0509']
+2020-01-16 22:31:58,001 - __main__ - [save dir] /mnt/f/02_Data/02_normalize_stain/output/Add_anntotation_PH_PCHplusPIN/5p375N/PCH/Normalize_per_ROI/P02212
+2020-01-16 22:32:03,904 - __main__ - 
+
+2020-01-16 22:32:03,905 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_anntotation_PH_PCHplusPIN/5p375RGB/PCH/PCH0102
+2020-01-16 22:32:03,906 - __main__ - [per slide] 5.565s
+2020-01-16 22:32:09,352 - __main__ - 
+
+2020-01-16 22:32:09,353 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_anntotation_PH_PCHplusPIN/5p375RGB/PCH/PCH0103
+2020-01-16 22:32:09,353 - __main__ - [per slide] 5.445s
+2020-01-16 22:32:11,242 - __main__ - 
+
+2020-01-16 22:32:11,243 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_anntotation_PH_PCHplusPIN/5p375RGB/PCH/PCH0104
+2020-01-16 22:32:11,244 - __main__ - [per slide] 1.888s
+2020-01-16 22:32:20,834 - __main__ - 
+
+2020-01-16 22:32:20,835 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_anntotation_PH_PCHplusPIN/5p375RGB/PCH/PCH0108
+2020-01-16 22:32:20,835 - __main__ - [per slide] 9.59s
+2020-01-16 22:32:22,881 - __main__ - 
+
+2020-01-16 22:32:22,883 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_anntotation_PH_PCHplusPIN/5p375RGB/PCH/PCH0201
+2020-01-16 22:32:22,883 - __main__ - [per slide] 2.045s
+2020-01-16 22:32:36,250 - __main__ - 
+
+2020-01-16 22:32:36,251 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_anntotation_PH_PCHplusPIN/5p375RGB/PCH/PCH0206
+2020-01-16 22:32:36,251 - __main__ - [per slide] 13.36s
+2020-01-16 22:32:38,143 - __main__ - 
+
+2020-01-16 22:32:38,144 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_anntotation_PH_PCHplusPIN/5p375RGB/PCH/PCH0207
+2020-01-16 22:32:38,144 - __main__ - [per slide] 1.89s
+2020-01-16 22:32:39,983 - __main__ - 
+
+2020-01-16 22:32:39,983 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_anntotation_PH_PCHplusPIN/5p375RGB/PCH/PCH0209
+2020-01-16 22:32:39,984 - __main__ - [per slide] 1.838s
+2020-01-16 22:32:55,309 - __main__ - 
+
+2020-01-16 22:32:55,309 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_anntotation_PH_PCHplusPIN/5p375RGB/PCH/PCH0214
+2020-01-16 22:32:55,310 - __main__ - [per slide] 15.32s
+2020-01-16 22:33:00,840 - __main__ - 
+
+2020-01-16 22:33:00,841 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_anntotation_PH_PCHplusPIN/5p375RGB/PCH/PCH0302
+2020-01-16 22:33:00,842 - __main__ - [per slide] 5.53s
+2020-01-16 22:33:04,499 - __main__ - 
+
+2020-01-16 22:33:04,500 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_anntotation_PH_PCHplusPIN/5p375RGB/PCH/PCH0304
+2020-01-16 22:33:04,500 - __main__ - [per slide] 3.657s
+2020-01-16 22:33:08,392 - __main__ - 
+
+2020-01-16 22:33:08,393 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_anntotation_PH_PCHplusPIN/5p375RGB/PCH/PCH0306
+2020-01-16 22:33:08,394 - __main__ - [per slide] 3.891s
+2020-01-16 22:33:21,782 - __main__ - 
+
+2020-01-16 22:33:21,783 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_anntotation_PH_PCHplusPIN/5p375RGB/PCH/PCH0310
+2020-01-16 22:33:21,784 - __main__ - [per slide] 13.39s
+2020-01-16 22:33:27,665 - __main__ - 
+
+2020-01-16 22:33:27,666 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_anntotation_PH_PCHplusPIN/5p375RGB/PCH/PCH0311
+2020-01-16 22:33:27,667 - __main__ - [per slide] 5.881s
+2020-01-16 22:33:31,557 - __main__ - 
+
+2020-01-16 22:33:31,558 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_anntotation_PH_PCHplusPIN/5p375RGB/PCH/PCH0508
+2020-01-16 22:33:31,559 - __main__ - [per slide] 3.887s
+2020-01-16 22:33:46,005 - __main__ - 
+
+2020-01-16 22:33:46,005 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_anntotation_PH_PCHplusPIN/5p375RGB/PCH/PCH0509
+2020-01-16 22:33:46,006 - __main__ - [per slide] 14.45s
+2020-01-16 22:33:46,007 - __main__ - Finish! ( 107.7s )

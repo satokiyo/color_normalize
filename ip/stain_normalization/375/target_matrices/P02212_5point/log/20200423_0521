@@ -1,0 +1,19 @@
+2020-04-23 05:21:14,221 - __main__ - [target] /media/prostate/20200423_正規化ツール_iteration固定_例外処理_numThread8/color_normalization_ite_fix_output_exception_flag/v4_dai2ki_color_normalization_modified_version/ip/stain_normalization/P02212
+2020-04-23 05:21:14,221 - __main__ - [source list]
+['/media/prostate/20200423_正規化ツール_iteration固定_例外処理_numThread8/color_normalization_ite_fix_output_exception_flag/v4_dai2ki_color_normalization_modified_version/ip/5p375RGB/EXCEPTION',
+ '/media/prostate/20200423_正規化ツール_iteration固定_例外処理_numThread8/color_normalization_ite_fix_output_exception_flag/v4_dai2ki_color_normalization_modified_version/ip/5p375RGB/PE',
+ '/media/prostate/20200423_正規化ツール_iteration固定_例外処理_numThread8/color_normalization_ite_fix_output_exception_flag/v4_dai2ki_color_normalization_modified_version/ip/5p375RGB/PS']
+2020-04-23 05:21:14,222 - __main__ - [save dir] /media/prostate/20200423_正規化ツール_iteration固定_例外処理_numThread8/color_normalization_ite_fix_output_exception_flag/v4_dai2ki_color_normalization_modified_version/out/20200423test/5p375N/Normalize_per_ROI/P02212
+2020-04-23 05:21:14,622 - __main__ - 
+
+2020-04-23 05:21:14,622 - __main__ - [slide dir] /media/prostate/20200423_正規化ツール_iteration固定_例外処理_numThread8/color_normalization_ite_fix_output_exception_flag/v4_dai2ki_color_normalization_modified_version/ip/5p375RGB/EXCEPTION
+2020-04-23 05:21:14,623 - __main__ - [per slide] 0.3872s
+2020-04-23 05:21:17,051 - __main__ - 
+
+2020-04-23 05:21:17,051 - __main__ - [slide dir] /media/prostate/20200423_正規化ツール_iteration固定_例外処理_numThread8/color_normalization_ite_fix_output_exception_flag/v4_dai2ki_color_normalization_modified_version/ip/5p375RGB/PE
+2020-04-23 05:21:17,051 - __main__ - [per slide] 2.428s
+2020-04-23 05:21:18,838 - __main__ - 
+
+2020-04-23 05:21:18,838 - __main__ - [slide dir] /media/prostate/20200423_正規化ツール_iteration固定_例外処理_numThread8/color_normalization_ite_fix_output_exception_flag/v4_dai2ki_color_normalization_modified_version/ip/5p375RGB/PS
+2020-04-23 05:21:18,838 - __main__ - [per slide] 1.786s
+2020-04-23 05:21:18,841 - __main__ - Finish! ( 4.606s )

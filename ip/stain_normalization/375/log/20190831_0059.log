@@ -1,0 +1,11 @@
+2019-08-31 00:59:07,931 - __main__ - [target] /mnt/f/03_Prog/stain_normalization/P02212
+2019-08-31 00:59:07,933 - __main__ - [source list]
+['/mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/*']
+2019-08-31 00:59:08,387 - __main__ - [save dir] /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212
+2019-08-31 00:59:08,446 - __main__.setup_normalizer - [Fitting values]
+2019-08-31 00:59:08,447 - __main__.setup_normalizer - [target W (OD)]
+array([[0.55806723, 0.72234329, 0.40838848],
+       [0.29010368, 0.84673842, 0.4459528 ]])
+2019-08-31 00:59:08,448 - __main__.setup_normalizer - [target 99 percentile in H]
+array([[2.91112732, 1.21991322]])
+2019-08-31 00:59:08,479 - __main__.ImageGenerator - /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/* is local file

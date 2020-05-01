@@ -1,0 +1,84 @@
+2019-12-09 20:07:58,120 - __main__ - [target] /mnt/f/03_Prog/stain_normalization/P02212
+2019-12-09 20:07:58,121 - __main__ - [source list]
+['/mnt/f/02_Data/02_normalize_stain/input/5p375RGB/PX/PX0201',
+ '/mnt/f/02_Data/02_normalize_stain/input/5p375RGB/PX/PX0202',
+ '/mnt/f/02_Data/02_normalize_stain/input/5p375RGB/PX/PX0203',
+ '/mnt/f/02_Data/02_normalize_stain/input/5p375RGB/PX/PX0204',
+ '/mnt/f/02_Data/02_normalize_stain/input/5p375RGB/PX/PX0206',
+ '/mnt/f/02_Data/02_normalize_stain/input/5p375RGB/PX/PX0207',
+ '/mnt/f/02_Data/02_normalize_stain/input/5p375RGB/PX/PX0210',
+ '/mnt/f/02_Data/02_normalize_stain/input/5p375RGB/PX/PX0302',
+ '/mnt/f/02_Data/02_normalize_stain/input/5p375RGB/PX/PX1902',
+ '/mnt/f/02_Data/02_normalize_stain/input/5p375RGB/PX/PX2011',
+ '/mnt/f/02_Data/02_normalize_stain/input/5p375RGB/PX/PX2102',
+ '/mnt/f/02_Data/02_normalize_stain/input/5p375RGB/PX/PX2202',
+ '/mnt/f/02_Data/02_normalize_stain/input/5p375RGB/PX/PX2501',
+ '/mnt/f/02_Data/02_normalize_stain/input/5p375RGB/PX/PX2502',
+ '/mnt/f/02_Data/02_normalize_stain/input/5p375RGB/PX/PX2503',
+ '/mnt/f/02_Data/02_normalize_stain/input/5p375RGB/PX/PX2504']
+2019-12-09 20:07:58,131 - __main__ - [save dir] /mnt/f/02_Data/02_normalize_stain/output/5p375N/PX/Normalize_per_ROI/P02212
+2019-12-09 20:08:02,121 - __main__ - 
+
+2019-12-09 20:08:02,122 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/PX/PX0201
+2019-12-09 20:08:02,123 - __main__ - [per slide] 3.868s
+2019-12-09 20:08:03,835 - __main__ - 
+
+2019-12-09 20:08:03,836 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/PX/PX0202
+2019-12-09 20:08:03,837 - __main__ - [per slide] 1.712s
+2019-12-09 20:08:05,659 - __main__ - 
+
+2019-12-09 20:08:05,660 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/PX/PX0203
+2019-12-09 20:08:05,660 - __main__ - [per slide] 1.821s
+2019-12-09 20:08:11,468 - __main__ - 
+
+2019-12-09 20:08:11,468 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/PX/PX0204
+2019-12-09 20:08:11,469 - __main__ - [per slide] 5.806s
+2019-12-09 20:08:13,756 - __main__ - 
+
+2019-12-09 20:08:13,757 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/PX/PX0206
+2019-12-09 20:08:13,759 - __main__ - [per slide] 2.286s
+2019-12-09 20:08:15,403 - __main__ - 
+
+2019-12-09 20:08:15,404 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/PX/PX0207
+2019-12-09 20:08:15,405 - __main__ - [per slide] 1.643s
+2019-12-09 20:08:17,093 - __main__ - 
+
+2019-12-09 20:08:17,094 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/PX/PX0210
+2019-12-09 20:08:17,095 - __main__ - [per slide] 1.688s
+2019-12-09 20:08:18,958 - __main__ - 
+
+2019-12-09 20:08:18,959 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/PX/PX0302
+2019-12-09 20:08:18,959 - __main__ - [per slide] 1.863s
+2019-12-09 20:08:19,195 - __main__ - 
+
+2019-12-09 20:08:19,197 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/PX/PX1902
+2019-12-09 20:08:19,197 - __main__ - [per slide] 0.2345s
+2019-12-09 20:08:24,637 - __main__ - 
+
+2019-12-09 20:08:24,637 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/PX/PX2011
+2019-12-09 20:08:24,638 - __main__ - [per slide] 5.434s
+2019-12-09 20:08:26,557 - __main__ - 
+
+2019-12-09 20:08:26,557 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/PX/PX2102
+2019-12-09 20:08:26,558 - __main__ - [per slide] 1.918s
+2019-12-09 20:08:35,962 - __main__ - 
+
+2019-12-09 20:08:35,963 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/PX/PX2202
+2019-12-09 20:08:35,963 - __main__ - [per slide] 9.403s
+2019-12-09 20:08:41,993 - __main__ - 
+
+2019-12-09 20:08:41,995 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/PX/PX2501
+2019-12-09 20:08:41,995 - __main__ - [per slide] 6.029s
+2019-12-09 20:08:53,845 - __main__ - 
+
+2019-12-09 20:08:53,846 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/PX/PX2502
+2019-12-09 20:08:53,846 - __main__ - [per slide] 11.85s
+2019-12-09 20:09:01,357 - __main__ - 
+
+2019-12-09 20:09:01,358 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/PX/PX2503
+2019-12-09 20:09:01,358 - __main__ - [per slide] 7.51s
+2019-12-09 20:09:07,453 - __main__ - 
+
+2019-12-09 20:09:07,454 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/PX/PX2504
+2019-12-09 20:09:07,454 - __main__ - [per slide] 6.092s
+2019-12-09 20:09:07,456 - __main__ - Finish! ( 69.2s )

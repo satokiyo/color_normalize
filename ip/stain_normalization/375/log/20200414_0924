@@ -1,0 +1,23 @@
+2020-04-14 09:24:10,338 - __main__ - [target] /media/prostate/20200414_prostate_normalize_ite_fix_lumithres0.8_out_shorttissue_flag/color_normalization_ite_fix_lumthres0.8_out_shorttissue_flag/v4_dai2ki_color_normalization_modified_version/ip/stain_normalization/P02212
+2020-04-14 09:24:10,338 - __main__ - [source list]
+['/media/prostate/20200414_prostate_normalize_ite_fix_lumithres0.8_out_shorttissue_flag/color_normalization_ite_fix_lumthres0.8_out_shorttissue_flag/v4_dai2ki_color_normalization_modified_version/ip/5p375RGB/PS/PS00202N1',
+ '/media/prostate/20200414_prostate_normalize_ite_fix_lumithres0.8_out_shorttissue_flag/color_normalization_ite_fix_lumthres0.8_out_shorttissue_flag/v4_dai2ki_color_normalization_modified_version/ip/5p375RGB/PS/PS00202N12']
+2020-04-14 09:24:10,339 - __main__ - [save dir] /media/prostate/20200414_prostate_normalize_ite_fix_lumithres0.8_out_shorttissue_flag/color_normalization_ite_fix_lumthres0.8_out_shorttissue_flag/v4_dai2ki_color_normalization_modified_version/out/20200414test/5p375N/Normalize_per_ROI/P02212
+2020-04-14 09:24:14,609 - __main__ - 
+
+2020-04-14 09:24:14,610 - __main__ - [slide dir] /media/prostate/20200414_prostate_normalize_ite_fix_lumithres0.8_out_shorttissue_flag/color_normalization_ite_fix_lumthres0.8_out_shorttissue_flag/v4_dai2ki_color_normalization_modified_version/ip/5p375RGB/PS/PS00202N1
+2020-04-14 09:24:14,610 - __main__ - [per slide] 4.264s
+2020-04-14 09:24:18,970 - __main__ - 
+
+2020-04-14 09:24:18,971 - __main__ - [slide dir] /media/prostate/20200414_prostate_normalize_ite_fix_lumithres0.8_out_shorttissue_flag/color_normalization_ite_fix_lumthres0.8_out_shorttissue_flag/v4_dai2ki_color_normalization_modified_version/ip/5p375RGB/PS/PS00202N12
+2020-04-14 09:24:18,971 - __main__ - [per slide] 4.36s
+2020-04-14 09:24:18,973 - __main__ - Finish! ( 8.628s )
+2020-04-14 09:24:20,628 - __main__ - [target] /media/prostate/20200414_prostate_normalize_ite_fix_lumithres0.8_out_shorttissue_flag/color_normalization_ite_fix_lumthres0.8_out_shorttissue_flag/v4_dai2ki_color_normalization_modified_version/ip/stain_normalization/P02212
+2020-04-14 09:24:20,629 - __main__ - [source list]
+['/media/prostate/20200414_prostate_normalize_ite_fix_lumithres0.8_out_shorttissue_flag/color_normalization_ite_fix_lumthres0.8_out_shorttissue_flag/v4_dai2ki_color_normalization_modified_version/ip/5p375RGB/PS2/PS00202N1']
+2020-04-14 09:24:20,629 - __main__ - [save dir] /media/prostate/20200414_prostate_normalize_ite_fix_lumithres0.8_out_shorttissue_flag/color_normalization_ite_fix_lumthres0.8_out_shorttissue_flag/v4_dai2ki_color_normalization_modified_version/out/20200414test/5p375N/Normalize_per_ROI/P02212
+2020-04-14 09:24:24,801 - __main__ - 
+
+2020-04-14 09:24:24,802 - __main__ - [slide dir] /media/prostate/20200414_prostate_normalize_ite_fix_lumithres0.8_out_shorttissue_flag/color_normalization_ite_fix_lumthres0.8_out_shorttissue_flag/v4_dai2ki_color_normalization_modified_version/ip/5p375RGB/PS2/PS00202N1
+2020-04-14 09:24:24,802 - __main__ - [per slide] 4.165s
+2020-04-14 09:24:24,802 - __main__ - Finish! ( 4.167s )

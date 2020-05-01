@@ -1,0 +1,38 @@
+2020-01-06 19:57:03,360 - __main__ - [target] /mnt/f/03_Prog/stain_normalization/P02212
+2020-01-06 19:57:03,362 - __main__ - [source list]
+['/mnt/f/02_Data/02_normalize_stain/input/0106_daityou/5p375RGB/PZ/PZ1001',
+ '/mnt/f/02_Data/02_normalize_stain/input/0106_daityou/5p375RGB/PZ/PZ1606',
+ '/mnt/f/02_Data/02_normalize_stain/input/0106_daityou/5p375RGB/PZ/PZ1707',
+ '/mnt/f/02_Data/02_normalize_stain/input/0106_daityou/5p375RGB/PZ/PZ1803']
+2020-01-06 19:57:03,366 - __main__ - [save dir] /mnt/f/02_Data/02_normalize_stain/output/0106_daityou/5p375N/PZ/Normalize_per_ROI/P02212
+2020-01-06 19:57:14,654 - __main__ - 
+
+2020-01-06 19:57:14,659 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/0106_daityou/5p375RGB/PZ/PZ1001
+2020-01-06 19:57:14,660 - __main__ - [per slide] 11.15s
+2020-01-06 19:57:20,721 - __main__ - 
+
+2020-01-06 19:57:20,724 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/0106_daityou/5p375RGB/PZ/PZ1606
+2020-01-06 19:57:20,726 - __main__ - [per slide] 6.059s
+2020-01-06 19:57:21,564 - __main__ - 
+
+2020-01-06 19:57:21,571 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/0106_daityou/5p375RGB/PZ/PZ1707
+2020-01-06 19:57:21,573 - __main__ - [per slide] 0.8354s
+2020-01-06 19:57:30,459 - __main__ - 
+
+2020-01-06 19:57:30,461 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/0106_daityou/5p375RGB/PZ/PZ1803
+2020-01-06 19:57:30,463 - __main__ - [per slide] 8.882s
+2020-01-06 19:57:30,465 - __main__ - Finish! ( 26.97s )
+2020-01-06 19:57:34,215 - __main__ - [target] /mnt/f/03_Prog/stain_normalization/P02212
+2020-01-06 19:57:34,218 - __main__ - [source list]
+['/mnt/f/02_Data/02_normalize_stain/input/0106_daityou/5p375RGB/TMU/P00401',
+ '/mnt/f/02_Data/02_normalize_stain/input/0106_daityou/5p375RGB/TMU/P00403']
+2020-01-06 19:57:34,221 - __main__ - [save dir] /mnt/f/02_Data/02_normalize_stain/output/0106_daityou/5p375N/TMU/Normalize_per_ROI/P02212
+2020-01-06 19:57:45,454 - __main__ - 
+
+2020-01-06 19:57:45,457 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/0106_daityou/5p375RGB/TMU/P00401
+2020-01-06 19:57:45,460 - __main__ - [per slide] 11.13s
+2020-01-06 19:57:51,701 - __main__ - 
+
+2020-01-06 19:57:51,703 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/0106_daityou/5p375RGB/TMU/P00403
+2020-01-06 19:57:51,705 - __main__ - [per slide] 6.239s
+2020-01-06 19:57:51,708 - __main__ - Finish! ( 17.39s )

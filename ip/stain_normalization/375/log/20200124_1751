@@ -1,0 +1,74 @@
+2020-01-24 17:51:45,780 - __main__ - [target] /mnt/f/03_Prog/stain_normalization/P02212
+2020-01-24 17:51:45,783 - __main__ - [source list]
+['/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PCH_TMU_0124/5p375RGB/TMU/P00605',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PCH_TMU_0124/5p375RGB/TMU/P00606',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PCH_TMU_0124/5p375RGB/TMU/P00607',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PCH_TMU_0124/5p375RGB/TMU/P00701',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PCH_TMU_0124/5p375RGB/TMU/P00702',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PCH_TMU_0124/5p375RGB/TMU/P00703',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PCH_TMU_0124/5p375RGB/TMU/P00705',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PCH_TMU_0124/5p375RGB/TMU/P00706',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PCH_TMU_0124/5p375RGB/TMU/P00708',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PCH_TMU_0124/5p375RGB/TMU/P00801',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PCH_TMU_0124/5p375RGB/TMU/P00802',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PCH_TMU_0124/5p375RGB/TMU/P00804',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PCH_TMU_0124/5p375RGB/TMU/P00805',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PCH_TMU_0124/5p375RGB/TMU/P00806']
+2020-01-24 17:51:45,797 - __main__ - [save dir] /mnt/f/02_Data/02_normalize_stain/output/Add_annotation_PCH_TMU_0124/5p375N/TMU/Normalize_per_ROI/P02212
+2020-01-24 17:51:49,595 - __main__ - 
+
+2020-01-24 17:51:49,597 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PCH_TMU_0124/5p375RGB/TMU/P00605
+2020-01-24 17:51:49,599 - __main__ - [per slide] 3.509s
+2020-01-24 17:51:52,535 - __main__ - 
+
+2020-01-24 17:51:52,537 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PCH_TMU_0124/5p375RGB/TMU/P00606
+2020-01-24 17:51:52,539 - __main__ - [per slide] 2.934s
+2020-01-24 17:51:55,614 - __main__ - 
+
+2020-01-24 17:51:55,617 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PCH_TMU_0124/5p375RGB/TMU/P00607
+2020-01-24 17:51:55,618 - __main__ - [per slide] 3.073s
+2020-01-24 17:51:56,453 - __main__ - 
+
+2020-01-24 17:51:56,461 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PCH_TMU_0124/5p375RGB/TMU/P00701
+2020-01-24 17:51:56,463 - __main__ - [per slide] 0.8335s
+2020-01-24 17:52:01,856 - __main__ - 
+
+2020-01-24 17:52:01,859 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PCH_TMU_0124/5p375RGB/TMU/P00702
+2020-01-24 17:52:01,861 - __main__ - [per slide] 5.39s
+2020-01-24 17:52:05,031 - __main__ - 
+
+2020-01-24 17:52:05,033 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PCH_TMU_0124/5p375RGB/TMU/P00703
+2020-01-24 17:52:05,035 - __main__ - [per slide] 3.168s
+2020-01-24 17:52:08,392 - __main__ - 
+
+2020-01-24 17:52:08,394 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PCH_TMU_0124/5p375RGB/TMU/P00705
+2020-01-24 17:52:08,397 - __main__ - [per slide] 3.355s
+2020-01-24 17:52:33,416 - __main__ - 
+
+2020-01-24 17:52:33,419 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PCH_TMU_0124/5p375RGB/TMU/P00706
+2020-01-24 17:52:33,420 - __main__ - [per slide] 25.02s
+2020-01-24 17:52:36,661 - __main__ - 
+
+2020-01-24 17:52:36,664 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PCH_TMU_0124/5p375RGB/TMU/P00708
+2020-01-24 17:52:36,665 - __main__ - [per slide] 3.239s
+2020-01-24 17:52:44,516 - __main__ - 
+
+2020-01-24 17:52:44,519 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PCH_TMU_0124/5p375RGB/TMU/P00801
+2020-01-24 17:52:44,521 - __main__ - [per slide] 7.849s
+2020-01-24 17:53:05,855 - __main__ - 
+
+2020-01-24 17:53:05,858 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PCH_TMU_0124/5p375RGB/TMU/P00802
+2020-01-24 17:53:05,860 - __main__ - [per slide] 21.33s
+2020-01-24 17:53:06,722 - __main__ - 
+
+2020-01-24 17:53:06,727 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PCH_TMU_0124/5p375RGB/TMU/P00804
+2020-01-24 17:53:06,730 - __main__ - [per slide] 0.8604s
+2020-01-24 17:53:07,563 - __main__ - 
+
+2020-01-24 17:53:07,570 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PCH_TMU_0124/5p375RGB/TMU/P00805
+2020-01-24 17:53:07,572 - __main__ - [per slide] 0.8304s
+2020-01-24 17:53:08,396 - __main__ - 
+
+2020-01-24 17:53:08,402 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PCH_TMU_0124/5p375RGB/TMU/P00806
+2020-01-24 17:53:08,404 - __main__ - [per slide] 0.8208s
+2020-01-24 17:53:08,407 - __main__ - Finish! ( 82.33s )

@@ -1,0 +1,9 @@
+2020-01-27 15:25:33,479 - __main__ - [target] /mnt/f/03_Prog/stain_normalization/P02212
+2020-01-27 15:25:33,482 - __main__ - [source list]
+['/mnt/f/02_Data/02_normalize_stain/input/inal_test/5p375RGB/*/*']
+2020-01-27 15:25:33,484 - __main__ - [save dir] /mnt/f/02_Data/02_normalize_stain/output/inal_test/5p375N/*/Normalize_per_ROI/P02212
+2020-01-27 15:25:34,486 - __main__ - 
+
+2020-01-27 15:25:34,491 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/inal_test/5p375RGB/*/*
+2020-01-27 15:25:34,493 - __main__ - [per slide] 0.9526s
+2020-01-27 15:25:34,495 - __main__ - Finish! ( 0.9685s )

@@ -1,0 +1,9 @@
+2020-01-24 11:56:43,957 - __main__ - [target] /mnt/f/03_Prog/stain_normalization/P02212
+2020-01-24 11:56:43,959 - __main__ - [source list]
+['/mnt/f/02_Data/02_normalize_stain/input/3rd_Clear_TestData_Needle/5p375RGB/TMU/P00401N1']
+2020-01-24 11:56:43,961 - __main__ - [save dir] /mnt/f/02_Data/02_normalize_stain/output/3rd_Clear_TestData_Needle/5p375N/TMU/Normalize_per_ROI/P02212
+2020-01-24 11:57:46,051 - __main__ - 
+
+2020-01-24 11:57:46,053 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/3rd_Clear_TestData_Needle/5p375RGB/TMU/P00401N1
+2020-01-24 11:57:46,055 - __main__ - [per slide] 61.64s
+2020-01-24 11:57:46,057 - __main__ - Finish! ( 61.65s )

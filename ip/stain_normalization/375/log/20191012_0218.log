@@ -1,0 +1,65 @@
+2019-10-12 02:18:56,066 - __main__ - [target] /mnt/f/03_Prog/stain_normalization/P02212
+2019-10-12 02:18:56,069 - __main__ - [source list]
+['/mnt/f/02_Data/02_normalize_stain/input/5p375RGB/P/P02308',
+ '/mnt/f/02_Data/02_normalize_stain/input/5p375RGB/P/P02511']
+2019-10-12 02:18:56,221 - __main__ - [save dir] /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/P/Normalize_per_ROI/target-P02212
+2019-10-12 02:18:56,314 - __main__.setup_normalizer - [Fitting values]
+2019-10-12 02:18:56,317 - __main__.setup_normalizer - [target W (OD)]
+array([[0.55806723, 0.72234329, 0.40838848],
+       [0.29010368, 0.84673842, 0.4459528 ]])
+2019-10-12 02:18:56,323 - __main__.setup_normalizer - [target 99 percentile in H]
+array([[2.91112732, 1.21991322]])
+2019-10-12 02:18:56,368 - __main__.ImageGenerator - /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/P/P02308 is local dir...
+2019-10-12 02:18:56,619 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/P/P02308/P02308_7229_8005_class_0.jpg
+2019-10-12 02:18:58,055 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/P/Normalize_per_ROI/target-P02212/P/P02308/P02308_7229_8005_class_0.jpg
+2019-10-12 02:18:58,075 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/P/P02308/P02308_7229_8193_class_0.jpg
+2019-10-12 02:18:59,366 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/P/Normalize_per_ROI/target-P02212/P/P02308/P02308_7229_8193_class_0.jpg
+2019-10-12 02:18:59,393 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/P/P02308/P02308_7417_8193_class_0.jpg
+2019-10-12 02:19:00,709 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/P/Normalize_per_ROI/target-P02212/P/P02308/P02308_7417_8193_class_0.jpg
+2019-10-12 02:19:00,736 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/P/P02308/P02308_7229_8380_class_0.jpg
+2019-10-12 02:19:02,021 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/P/Normalize_per_ROI/target-P02212/P/P02308/P02308_7229_8380_class_0.jpg
+2019-10-12 02:19:02,088 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/P/P02308/P02308_7417_8380_class_0.jpg
+2019-10-12 02:19:03,432 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/P/Normalize_per_ROI/target-P02212/P/P02308/P02308_7417_8380_class_0.jpg
+2019-10-12 02:19:03,459 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/P/P02308/P02308_7604_8380_class_0.jpg
+2019-10-12 02:19:04,772 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/P/Normalize_per_ROI/target-P02212/P/P02308/P02308_7604_8380_class_0.jpg
+2019-10-12 02:19:04,849 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/P/P02308/P02308_7229_8568_class_0.jpg
+2019-10-12 02:19:06,149 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/P/Normalize_per_ROI/target-P02212/P/P02308/P02308_7229_8568_class_0.jpg
+2019-10-12 02:19:06,174 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/P/P02308/P02308_7417_8568_class_0.jpg
+2019-10-12 02:19:07,480 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/P/Normalize_per_ROI/target-P02212/P/P02308/P02308_7417_8568_class_0.jpg
+2019-10-12 02:19:07,508 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/P/P02308/P02308_7604_8568_class_0.jpg
+2019-10-12 02:19:08,761 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/P/Normalize_per_ROI/target-P02212/P/P02308/P02308_7604_8568_class_0.jpg
+2019-10-12 02:19:08,766 - __main__ - 
+
+2019-10-12 02:19:08,767 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/P/P02308
+2019-10-12 02:19:08,769 - __main__ - [elapsed time per slide] 12.40288496017456 sec
+2019-10-12 02:19:08,773 - __main__.ImageGenerator - /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/P/P02511 is local dir...
+2019-10-12 02:19:08,822 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/P/P02511/P02511_8879_2891_class_0.jpg
+2019-10-12 02:19:10,136 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/P/Normalize_per_ROI/target-P02212/P/P02511/P02511_8879_2891_class_0.jpg
+2019-10-12 02:19:10,191 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/P/P02511/P02511_8879_3078_class_0.jpg
+2019-10-12 02:19:11,452 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/P/Normalize_per_ROI/target-P02212/P/P02511/P02511_8879_3078_class_0.jpg
+2019-10-12 02:19:11,481 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/P/P02511/P02511_8316_3266_class_0.jpg
+2019-10-12 02:19:12,797 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/P/Normalize_per_ROI/target-P02212/P/P02511/P02511_8316_3266_class_0.jpg
+2019-10-12 02:19:12,879 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/P/P02511/P02511_8504_3266_class_0.jpg
+2019-10-12 02:19:14,154 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/P/Normalize_per_ROI/target-P02212/P/P02511/P02511_8504_3266_class_0.jpg
+2019-10-12 02:19:14,183 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/P/P02511/P02511_8691_3266_class_0.jpg
+2019-10-12 02:19:15,475 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/P/Normalize_per_ROI/target-P02212/P/P02511/P02511_8691_3266_class_0.jpg
+2019-10-12 02:19:15,538 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/P/P02511/P02511_8879_3266_class_0.jpg
+2019-10-12 02:19:16,823 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/P/Normalize_per_ROI/target-P02212/P/P02511/P02511_8879_3266_class_0.jpg
+2019-10-12 02:19:16,852 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/P/P02511/P02511_8316_3453_class_0.jpg
+2019-10-12 02:19:18,119 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/P/Normalize_per_ROI/target-P02212/P/P02511/P02511_8316_3453_class_0.jpg
+2019-10-12 02:19:18,148 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/P/P02511/P02511_8504_3453_class_0.jpg
+2019-10-12 02:19:19,472 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/P/Normalize_per_ROI/target-P02212/P/P02511/P02511_8504_3453_class_0.jpg
+2019-10-12 02:19:19,527 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/P/P02511/P02511_8691_3453_class_0.jpg
+2019-10-12 02:19:20,853 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/P/Normalize_per_ROI/target-P02212/P/P02511/P02511_8691_3453_class_0.jpg
+2019-10-12 02:19:20,881 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/P/P02511/P02511_8879_3453_class_0.jpg
+2019-10-12 02:19:22,143 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/P/Normalize_per_ROI/target-P02212/P/P02511/P02511_8879_3453_class_0.jpg
+2019-10-12 02:19:22,170 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/P/P02511/P02511_8504_3641_class_0.jpg
+2019-10-12 02:19:23,442 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/P/Normalize_per_ROI/target-P02212/P/P02511/P02511_8504_3641_class_0.jpg
+2019-10-12 02:19:23,470 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/P/P02511/P02511_8691_3641_class_0.jpg
+2019-10-12 02:19:24,743 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/P/Normalize_per_ROI/target-P02212/P/P02511/P02511_8691_3641_class_0.jpg
+2019-10-12 02:19:24,748 - __main__ - 
+
+2019-10-12 02:19:24,750 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/P/P02511
+2019-10-12 02:19:24,752 - __main__ - [elapsed time per slide] 15.97677493095398 sec
+2019-10-12 02:19:24,754 - __main__ - Finish!
+2019-10-12 02:19:24,755 - __main__ - [whole elapsed time] 28.428422451019287 sec

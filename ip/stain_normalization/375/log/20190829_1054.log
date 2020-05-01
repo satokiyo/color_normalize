@@ -1,0 +1,293 @@
+2019-08-29 10:54:05,680 - __main__ - [target] /mnt/f/03_Prog/stain_normalization/P02212
+2019-08-29 10:54:05,683 - __main__ - [source list]
+['/mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101',
+ '/mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0102',
+ '/mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0103',
+ '/mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0104',
+ '/mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0105',
+ '/mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0106',
+ '/mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0201',
+ '/mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0202',
+ '/mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0203',
+ '/mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0204',
+ '/mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0205',
+ '/mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0206',
+ '/mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0301',
+ '/mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0302',
+ '/mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0303',
+ '/mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0304',
+ '/mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0305',
+ '/mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0306',
+ '/mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0307',
+ '/mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0401',
+ '/mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0402',
+ '/mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0403',
+ '/mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0404',
+ '/mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0405',
+ '/mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0406',
+ '/mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0407',
+ '/mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0501',
+ '/mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0502',
+ '/mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0504',
+ '/mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0506',
+ '/mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0507',
+ '/mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0601',
+ '/mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0602',
+ '/mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0603',
+ '/mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0604',
+ '/mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0605',
+ '/mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0606',
+ '/mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0607']
+2019-08-29 10:54:05,712 - __main__ - [save dir] /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212
+2019-08-29 10:54:42,885 - __main__.setup_normalizer - [Fitting values]
+2019-08-29 10:54:42,887 - __main__.setup_normalizer - [target W (OD)]
+array([[0.55806723, 0.72234329, 0.40838848],
+       [0.29010368, 0.84673842, 0.4459528 ]])
+2019-08-29 10:54:42,888 - __main__.setup_normalizer - [target 99 percentile in H]
+array([[2.91112732, 1.21991322]])
+2019-08-29 10:54:42,946 - __main__.ImageGenerator - /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101 is local dir...
+2019-08-29 10:54:44,248 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_13934_17571_class_0.jpg
+2019-08-29 10:54:45,940 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_13934_17571_class_0.jpg
+2019-08-29 10:54:45,988 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_13934_17758_class_0.jpg
+2019-08-29 10:54:47,698 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_13934_17758_class_0.jpg
+2019-08-29 10:54:47,735 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14122_17758_class_0.jpg
+2019-08-29 10:54:49,435 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14122_17758_class_0.jpg
+2019-08-29 10:54:49,500 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14122_17946_class_0.jpg
+2019-08-29 10:54:51,195 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14122_17946_class_0.jpg
+2019-08-29 10:54:51,476 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14122_18133_class_0.jpg
+2019-08-29 10:54:53,136 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14122_18133_class_0.jpg
+2019-08-29 10:54:53,184 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14309_13071_class_0.jpg
+2019-08-29 10:54:54,822 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14309_13071_class_0.jpg
+2019-08-29 10:54:54,888 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14309_13258_class_0.jpg
+2019-08-29 10:54:56,548 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14309_13258_class_0.jpg
+2019-08-29 10:54:56,623 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14309_13633_class_0.jpg
+2019-08-29 10:54:58,289 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14309_13633_class_0.jpg
+2019-08-29 10:54:58,361 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14309_13821_class_0.jpg
+2019-08-29 10:55:00,028 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14309_13821_class_0.jpg
+2019-08-29 10:55:00,081 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14309_14008_class_0.jpg
+2019-08-29 10:55:01,842 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14309_14008_class_0.jpg
+2019-08-29 10:55:01,884 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14309_14196_class_0.jpg
+2019-08-29 10:55:04,182 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14309_14196_class_0.jpg
+2019-08-29 10:55:04,248 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14309_14383_class_0.jpg
+2019-08-29 10:55:05,913 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14309_14383_class_0.jpg
+2019-08-29 10:55:05,975 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14309_14571_class_0.jpg
+2019-08-29 10:55:07,657 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14309_14571_class_0.jpg
+2019-08-29 10:55:07,733 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14309_14758_class_0.jpg
+2019-08-29 10:55:09,402 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14309_14758_class_0.jpg
+2019-08-29 10:55:09,479 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14309_14946_class_0.jpg
+2019-08-29 10:55:11,120 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14309_14946_class_0.jpg
+2019-08-29 10:55:11,179 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14309_15133_class_0.jpg
+2019-08-29 10:55:12,791 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14309_15133_class_0.jpg
+2019-08-29 10:55:12,860 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14309_17946_class_0.jpg
+2019-08-29 10:55:14,542 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14309_17946_class_0.jpg
+2019-08-29 10:55:14,604 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14309_18133_class_0.jpg
+2019-08-29 10:55:16,318 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14309_18133_class_0.jpg
+2019-08-29 10:55:16,384 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14309_18321_class_0.jpg
+2019-08-29 10:55:18,035 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14309_18321_class_0.jpg
+2019-08-29 10:55:18,138 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14497_12133_class_0.jpg
+2019-08-29 10:55:19,844 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14497_12133_class_0.jpg
+2019-08-29 10:55:19,918 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14497_12321_class_0.jpg
+2019-08-29 10:55:21,610 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14497_12321_class_0.jpg
+2019-08-29 10:55:21,675 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14497_12508_class_0.jpg
+2019-08-29 10:55:23,334 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14497_12508_class_0.jpg
+2019-08-29 10:55:23,388 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14497_12883_class_0.jpg
+2019-08-29 10:55:25,058 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14497_12883_class_0.jpg
+2019-08-29 10:55:25,128 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14497_13071_class_0.jpg
+2019-08-29 10:55:26,776 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14497_13071_class_0.jpg
+2019-08-29 10:55:26,825 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14497_13258_class_0.jpg
+2019-08-29 10:55:28,480 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14497_13258_class_0.jpg
+2019-08-29 10:55:28,512 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14497_13446_class_0.jpg
+2019-08-29 10:55:30,277 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14497_13446_class_0.jpg
+2019-08-29 10:55:30,330 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14497_13633_class_0.jpg
+2019-08-29 10:55:32,053 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14497_13633_class_0.jpg
+2019-08-29 10:55:32,129 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14497_13821_class_0.jpg
+2019-08-29 10:55:33,738 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14497_13821_class_0.jpg
+2019-08-29 10:55:33,791 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14497_14008_class_0.jpg
+2019-08-29 10:55:35,445 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14497_14008_class_0.jpg
+2019-08-29 10:55:35,507 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14497_14196_class_0.jpg
+2019-08-29 10:55:37,142 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14497_14196_class_0.jpg
+2019-08-29 10:55:37,212 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14497_14383_class_0.jpg
+2019-08-29 10:55:38,833 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14497_14383_class_0.jpg
+2019-08-29 10:55:38,895 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14497_14571_class_0.jpg
+2019-08-29 10:55:40,527 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14497_14571_class_0.jpg
+2019-08-29 10:55:40,579 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14497_14758_class_0.jpg
+2019-08-29 10:55:42,309 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14497_14758_class_0.jpg
+2019-08-29 10:55:42,374 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14497_14946_class_0.jpg
+2019-08-29 10:55:44,085 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14497_14946_class_0.jpg
+2019-08-29 10:55:44,148 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14497_15133_class_0.jpg
+2019-08-29 10:55:45,867 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14497_15133_class_0.jpg
+2019-08-29 10:55:45,918 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14497_15321_class_0.jpg
+2019-08-29 10:55:47,632 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14497_15321_class_0.jpg
+2019-08-29 10:55:47,689 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14497_15508_class_0.jpg
+2019-08-29 10:55:49,335 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14497_15508_class_0.jpg
+2019-08-29 10:55:49,398 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14497_15696_class_0.jpg
+2019-08-29 10:55:51,001 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14497_15696_class_0.jpg
+2019-08-29 10:55:51,068 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14497_15883_class_0.jpg
+2019-08-29 10:55:52,683 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14497_15883_class_0.jpg
+2019-08-29 10:55:52,731 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14497_18321_class_0.jpg
+2019-08-29 10:55:54,367 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14497_18321_class_0.jpg
+2019-08-29 10:55:54,414 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14684_11571_class_0.jpg
+2019-08-29 10:55:56,097 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14684_11571_class_0.jpg
+2019-08-29 10:55:56,173 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14684_11758_class_0.jpg
+2019-08-29 10:55:57,867 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14684_11758_class_0.jpg
+2019-08-29 10:55:57,929 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14684_11946_class_0.jpg
+2019-08-29 10:55:59,646 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14684_11946_class_0.jpg
+2019-08-29 10:55:59,713 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14684_12133_class_0.jpg
+2019-08-29 10:56:01,350 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14684_12133_class_0.jpg
+2019-08-29 10:56:01,437 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14684_12321_class_0.jpg
+2019-08-29 10:56:03,076 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14684_12321_class_0.jpg
+2019-08-29 10:56:03,161 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14684_12508_class_0.jpg
+2019-08-29 10:56:04,817 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14684_12508_class_0.jpg
+2019-08-29 10:56:04,877 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14684_12696_class_0.jpg
+2019-08-29 10:56:06,557 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14684_12696_class_0.jpg
+2019-08-29 10:56:06,605 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14684_12883_class_0.jpg
+2019-08-29 10:56:08,316 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14684_12883_class_0.jpg
+2019-08-29 10:56:08,345 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14684_13071_class_0.jpg
+2019-08-29 10:56:09,996 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14684_13071_class_0.jpg
+2019-08-29 10:56:10,055 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14684_13258_class_0.jpg
+2019-08-29 10:56:11,657 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14684_13258_class_0.jpg
+2019-08-29 10:56:11,687 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14684_13446_class_0.jpg
+2019-08-29 10:56:13,479 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14684_13446_class_0.jpg
+2019-08-29 10:56:13,536 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14684_13633_class_0.jpg
+2019-08-29 10:56:15,296 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14684_13633_class_0.jpg
+2019-08-29 10:56:15,371 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14684_13821_class_0.jpg
+2019-08-29 10:56:17,029 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14684_13821_class_0.jpg
+2019-08-29 10:56:17,080 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14684_14008_class_0.jpg
+2019-08-29 10:56:18,767 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14684_14008_class_0.jpg
+2019-08-29 10:56:18,829 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14684_14196_class_0.jpg
+2019-08-29 10:56:20,504 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14684_14196_class_0.jpg
+2019-08-29 10:56:20,577 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14684_14383_class_0.jpg
+2019-08-29 10:56:22,210 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14684_14383_class_0.jpg
+2019-08-29 10:56:22,270 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14684_14571_class_0.jpg
+2019-08-29 10:56:23,924 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14684_14571_class_0.jpg
+2019-08-29 10:56:24,005 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14684_14758_class_0.jpg
+2019-08-29 10:56:25,747 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14684_14758_class_0.jpg
+2019-08-29 10:56:25,777 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14684_14946_class_0.jpg
+2019-08-29 10:56:27,573 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14684_14946_class_0.jpg
+2019-08-29 10:56:27,602 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14684_15133_class_0.jpg
+2019-08-29 10:56:29,268 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14684_15133_class_0.jpg
+2019-08-29 10:56:29,311 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14684_15321_class_0.jpg
+2019-08-29 10:56:31,059 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14684_15321_class_0.jpg
+2019-08-29 10:56:31,145 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14684_15508_class_0.jpg
+2019-08-29 10:56:32,883 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14684_15508_class_0.jpg
+2019-08-29 10:56:32,957 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14684_15696_class_0.jpg
+2019-08-29 10:56:34,649 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14684_15696_class_0.jpg
+2019-08-29 10:56:34,677 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14684_15883_class_0.jpg
+2019-08-29 10:56:36,345 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14684_15883_class_0.jpg
+2019-08-29 10:56:36,417 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14684_16071_class_0.jpg
+2019-08-29 10:56:38,094 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14684_16071_class_0.jpg
+2019-08-29 10:56:38,186 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14684_16258_class_0.jpg
+2019-08-29 10:56:39,946 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14684_16258_class_0.jpg
+2019-08-29 10:56:39,992 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14684_16446_class_0.jpg
+2019-08-29 10:56:41,690 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14684_16446_class_0.jpg
+2019-08-29 10:56:41,768 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14872_11196_class_0.jpg
+2019-08-29 10:56:43,519 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14872_11196_class_0.jpg
+2019-08-29 10:56:43,589 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14872_11383_class_0.jpg
+2019-08-29 10:56:45,290 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14872_11383_class_0.jpg
+2019-08-29 10:56:45,370 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14872_11571_class_0.jpg
+2019-08-29 10:56:47,104 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14872_11571_class_0.jpg
+2019-08-29 10:56:47,177 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14872_11758_class_0.jpg
+2019-08-29 10:56:48,918 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14872_11758_class_0.jpg
+2019-08-29 10:56:48,948 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14872_11946_class_0.jpg
+2019-08-29 10:56:50,707 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14872_11946_class_0.jpg
+2019-08-29 10:56:50,737 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14872_12133_class_0.jpg
+2019-08-29 10:56:52,351 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14872_12133_class_0.jpg
+2019-08-29 10:56:52,408 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14872_12321_class_0.jpg
+2019-08-29 10:56:54,017 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14872_12321_class_0.jpg
+2019-08-29 10:56:54,069 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14872_12508_class_0.jpg
+2019-08-29 10:56:55,732 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14872_12508_class_0.jpg
+2019-08-29 10:56:55,793 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14872_12696_class_0.jpg
+2019-08-29 10:56:57,456 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14872_12696_class_0.jpg
+2019-08-29 10:56:57,536 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14872_12883_class_0.jpg
+2019-08-29 10:56:59,169 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14872_12883_class_0.jpg
+2019-08-29 10:56:59,198 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14872_13071_class_0.jpg
+2019-08-29 10:57:00,841 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14872_13071_class_0.jpg
+2019-08-29 10:57:00,887 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14872_13258_class_0.jpg
+2019-08-29 10:57:02,574 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14872_13258_class_0.jpg
+2019-08-29 10:57:02,604 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14872_13446_class_0.jpg
+2019-08-29 10:57:04,336 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14872_13446_class_0.jpg
+2019-08-29 10:57:04,400 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14872_13633_class_0.jpg
+2019-08-29 10:57:06,105 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14872_13633_class_0.jpg
+2019-08-29 10:57:06,160 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14872_13821_class_0.jpg
+2019-08-29 10:57:07,786 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14872_13821_class_0.jpg
+2019-08-29 10:57:07,848 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14872_14008_class_0.jpg
+2019-08-29 10:57:09,628 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14872_14008_class_0.jpg
+2019-08-29 10:57:09,703 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14872_14196_class_0.jpg
+2019-08-29 10:57:11,513 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14872_14196_class_0.jpg
+2019-08-29 10:57:11,578 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14872_14383_class_0.jpg
+2019-08-29 10:57:13,259 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14872_14383_class_0.jpg
+2019-08-29 10:57:13,310 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14872_14571_class_0.jpg
+2019-08-29 10:57:14,981 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14872_14571_class_0.jpg
+2019-08-29 10:57:15,044 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14872_14758_class_0.jpg
+2019-08-29 10:57:16,759 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14872_14758_class_0.jpg
+2019-08-29 10:57:16,788 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14872_14946_class_0.jpg
+2019-08-29 10:57:18,504 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14872_14946_class_0.jpg
+2019-08-29 10:57:18,552 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14872_15133_class_0.jpg
+2019-08-29 10:57:20,299 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14872_15133_class_0.jpg
+2019-08-29 10:57:20,356 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14872_15321_class_0.jpg
+2019-08-29 10:57:22,116 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14872_15321_class_0.jpg
+2019-08-29 10:57:22,196 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14872_15508_class_0.jpg
+2019-08-29 10:57:23,922 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14872_15508_class_0.jpg
+2019-08-29 10:57:23,952 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14872_15696_class_0.jpg
+2019-08-29 10:57:25,681 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14872_15696_class_0.jpg
+2019-08-29 10:57:25,710 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14872_15883_class_0.jpg
+2019-08-29 10:57:27,405 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14872_15883_class_0.jpg
+2019-08-29 10:57:27,469 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14872_16071_class_0.jpg
+2019-08-29 10:57:29,190 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14872_16071_class_0.jpg
+2019-08-29 10:57:29,285 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14872_16258_class_0.jpg
+2019-08-29 10:57:31,041 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14872_16258_class_0.jpg
+2019-08-29 10:57:31,093 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14872_16446_class_0.jpg
+2019-08-29 10:57:32,791 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14872_16446_class_0.jpg
+2019-08-29 10:57:32,840 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14872_16633_class_0.jpg
+2019-08-29 10:57:34,530 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14872_16633_class_0.jpg
+2019-08-29 10:57:34,581 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14872_16821_class_0.jpg
+2019-08-29 10:57:36,204 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14872_16821_class_0.jpg
+2019-08-29 10:57:36,232 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_14872_17946_class_0.jpg
+2019-08-29 10:57:37,804 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_14872_17946_class_0.jpg
+2019-08-29 10:57:37,879 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_15059_10633_class_0.jpg
+2019-08-29 10:57:39,546 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_15059_10633_class_0.jpg
+2019-08-29 10:57:39,721 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_15059_10821_class_0.jpg
+2019-08-29 10:57:41,382 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_15059_10821_class_0.jpg
+2019-08-29 10:57:41,434 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_15059_11008_class_0.jpg
+2019-08-29 10:57:43,133 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_15059_11008_class_0.jpg
+2019-08-29 10:57:43,186 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_15059_11196_class_0.jpg
+2019-08-29 10:57:44,955 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_15059_11196_class_0.jpg
+2019-08-29 10:57:44,996 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_15059_11383_class_0.jpg
+2019-08-29 10:57:46,763 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_15059_11383_class_0.jpg
+2019-08-29 10:57:46,838 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_15059_11571_class_0.jpg
+2019-08-29 10:57:48,551 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_15059_11571_class_0.jpg
+2019-08-29 10:57:48,610 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_15059_11758_class_0.jpg
+2019-08-29 10:57:50,309 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_15059_11758_class_0.jpg
+2019-08-29 10:57:50,357 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_15059_11946_class_0.jpg
+2019-08-29 10:57:52,085 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_15059_11946_class_0.jpg
+2019-08-29 10:57:52,139 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_15059_12133_class_0.jpg
+2019-08-29 10:57:53,759 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_15059_12133_class_0.jpg
+2019-08-29 10:57:53,811 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_15059_12321_class_0.jpg
+2019-08-29 10:57:55,446 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_15059_12321_class_0.jpg
+2019-08-29 10:57:55,501 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_15059_12508_class_0.jpg
+2019-08-29 10:57:57,260 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_15059_12508_class_0.jpg
+2019-08-29 10:57:57,307 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_15059_12696_class_0.jpg
+2019-08-29 10:57:58,996 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_15059_12696_class_0.jpg
+2019-08-29 10:57:59,049 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_15059_12883_class_0.jpg
+2019-08-29 10:58:00,665 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_15059_12883_class_0.jpg
+2019-08-29 10:58:00,693 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_15059_13071_class_0.jpg
+2019-08-29 10:58:02,302 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_15059_13071_class_0.jpg
+2019-08-29 10:58:02,362 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_15059_13633_class_0.jpg
+2019-08-29 10:58:03,977 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_15059_13633_class_0.jpg
+2019-08-29 10:58:04,026 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_15059_13821_class_0.jpg
+2019-08-29 10:58:05,635 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_15059_13821_class_0.jpg
+2019-08-29 10:58:05,666 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_15059_14383_class_0.jpg
+2019-08-29 10:58:07,287 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_15059_14383_class_0.jpg
+2019-08-29 10:58:07,345 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_15059_14571_class_0.jpg
+2019-08-29 10:58:08,985 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_15059_14571_class_0.jpg
+2019-08-29 10:58:09,013 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_15059_14758_class_0.jpg
+2019-08-29 10:58:10,678 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_15059_14758_class_0.jpg
+2019-08-29 10:58:10,754 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_15059_14946_class_0.jpg
+2019-08-29 10:58:12,437 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_15059_14946_class_0.jpg
+2019-08-29 10:58:12,493 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_15059_15508_class_0.jpg
+2019-08-29 10:58:14,227 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_15059_15508_class_0.jpg
+2019-08-29 10:58:14,257 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_15059_15696_class_0.jpg
+2019-08-29 10:58:16,009 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_15059_15696_class_0.jpg
+2019-08-29 10:58:16,038 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_15059_15883_class_0.jpg
+2019-08-29 10:58:17,785 - __main__ - save /mnt/f/02_Data/02_normalize_stain/output/5p375RGB/train/PB/Normalize_per_ROI/target-P02212/PB/PB0101/PB0101_15059_15883_class_0.jpg
+2019-08-29 10:58:17,866 - __main__.normalize - Normalizing /mnt/f/02_Data/02_normalize_stain/input/5p375RGB/train/PB/PB0101/PB0101_15059_16071_class_0.jpg

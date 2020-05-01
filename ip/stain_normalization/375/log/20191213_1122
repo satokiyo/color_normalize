@@ -1,0 +1,9 @@
+2019-12-13 11:22:51,915 - __main__ - [target] /mnt/f/03_Prog/stain_normalization/P02212
+2019-12-13 11:22:51,920 - __main__ - [source list]
+['/mnt/f/02_Data/02_normalize_stain/input/PA_PX_PF1209_add/5p375RGB/PA/PA05306']
+2019-12-13 11:22:51,931 - __main__ - [save dir] /mnt/f/02_Data/02_normalize_stain/output/PA_PX_PF1209_add/5p375N/PA/Normalize_per_ROI/P02212
+2019-12-13 11:25:04,975 - __main__ - 
+
+2019-12-13 11:25:04,979 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/PA_PX_PF1209_add/5p375RGB/PA/PA05306
+2019-12-13 11:25:04,982 - __main__ - [per slide] 131.9s
+2019-12-13 11:25:04,984 - __main__ - Finish! ( 132.0s )

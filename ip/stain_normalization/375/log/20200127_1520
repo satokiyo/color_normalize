@@ -1,0 +1,24 @@
+2020-01-27 15:20:07,817 - __main__ - [target] /mnt/f/03_Prog/stain_normalization/P02212
+2020-01-27 15:20:07,820 - __main__ - [source list]
+['/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PF_TMU_1217/5p375RGB/PF/PF04702',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PF_TMU_1217/5p375RGB/PF/PF04901',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PF_TMU_1217/5p375RGB/PF/PF04902',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PF_TMU_1217/5p375RGB/PF/PF05001']
+2020-01-27 15:20:07,826 - __main__ - [save dir] /mnt/f/02_Data/02_normalize_stain/output/Add_annotation_PF_TMU_1217/5p375N/PF/Normalize_per_ROI/P02212
+2020-01-27 15:20:17,462 - __main__ - 
+
+2020-01-27 15:20:17,465 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PF_TMU_1217/5p375RGB/PF/PF04702
+2020-01-27 15:20:17,466 - __main__ - [per slide] 9.274s
+2020-01-27 15:20:21,575 - __main__ - 
+
+2020-01-27 15:20:21,577 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PF_TMU_1217/5p375RGB/PF/PF04901
+2020-01-27 15:20:21,579 - __main__ - [per slide] 4.107s
+2020-01-27 15:20:55,709 - __main__ - 
+
+2020-01-27 15:20:55,712 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PF_TMU_1217/5p375RGB/PF/PF04902
+2020-01-27 15:20:55,714 - __main__ - [per slide] 34.13s
+2020-01-27 15:21:04,063 - __main__ - 
+
+2020-01-27 15:21:04,066 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PF_TMU_1217/5p375RGB/PF/PF05001
+2020-01-27 15:21:04,068 - __main__ - [per slide] 8.347s
+2020-01-27 15:21:04,070 - __main__ - Finish! ( 55.89s )

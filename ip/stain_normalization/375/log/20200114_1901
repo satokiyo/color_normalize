@@ -1,0 +1,24 @@
+2020-01-14 19:01:20,261 - __main__ - [target] /mnt/f/03_Prog/stain_normalization/P02212
+2020-01-14 19:01:20,264 - __main__ - [source list]
+['/mnt/f/02_Data/02_normalize_stain/input/0114_seinousen/5p375RGB/PT/PT00202',
+ '/mnt/f/02_Data/02_normalize_stain/input/0114_seinousen/5p375RGB/PT/PT07803',
+ '/mnt/f/02_Data/02_normalize_stain/input/0114_seinousen/5p375RGB/PT/PT09703',
+ '/mnt/f/02_Data/02_normalize_stain/input/0114_seinousen/5p375RGB/PT/PT09803']
+2020-01-14 19:01:20,270 - __main__ - [save dir] /mnt/f/02_Data/02_normalize_stain/output/0114_seinousen/5p375N/PT/Normalize_per_ROI/P02212
+2020-01-14 19:01:25,223 - __main__ - 
+
+2020-01-14 19:01:25,225 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/0114_seinousen/5p375RGB/PT/PT00202
+2020-01-14 19:01:25,227 - __main__ - [per slide] 4.876s
+2020-01-14 19:01:27,286 - __main__ - 
+
+2020-01-14 19:01:27,293 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/0114_seinousen/5p375RGB/PT/PT07803
+2020-01-14 19:01:27,295 - __main__ - [per slide] 2.057s
+2020-01-14 19:01:34,456 - __main__ - 
+
+2020-01-14 19:01:34,459 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/0114_seinousen/5p375RGB/PT/PT09703
+2020-01-14 19:01:34,461 - __main__ - [per slide] 7.155s
+2020-01-14 19:01:42,029 - __main__ - 
+
+2020-01-14 19:01:42,032 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/0114_seinousen/5p375RGB/PT/PT09803
+2020-01-14 19:01:42,034 - __main__ - [per slide] 7.567s
+2020-01-14 19:01:42,037 - __main__ - Finish! ( 21.7s )

@@ -1,0 +1,18 @@
+2020-03-25 17:18:11,190 - __main__ - [target] /media/prostate_tf1_4_1/main/prostate/analysis/color_normalization/v2_dai2ki_color_normalization/ip/stain_normalization/P02212
+2020-03-25 17:18:11,190 - __main__ - [source list]
+['/media/prostate_tf1_4_1/main/prostate/analysis/color_normalization/v2_dai2ki_color_normalization/ip/5p375RGB/PS']
+2020-03-25 17:18:11,190 - __main__ - [save dir] /media/prostate_tf1_4_1/main/prostate/analysis/color_normalization/v2_dai2ki_color_normalization/out/20200325test/5p375N/Normalize_per_ROI/P02212
+2020-03-25 17:18:12,960 - __main__ - 
+
+2020-03-25 17:18:12,961 - __main__ - [slide dir] /media/prostate_tf1_4_1/main/prostate/analysis/color_normalization/v2_dai2ki_color_normalization/ip/5p375RGB/PS
+2020-03-25 17:18:12,961 - __main__ - [per slide] 1.765s
+2020-03-25 17:18:12,961 - __main__ - Finish! ( 1.767s )
+2020-03-25 17:18:31,404 - __main__ - [target] /media/prostate_tf1_4_1/main/prostate/analysis/color_normalization/v2_dai2ki_color_normalization/ip/stain_normalization/P02212
+2020-03-25 17:18:31,404 - __main__ - [source list]
+['/media/prostate_tf1_4_1/main/prostate/analysis/color_normalization/v2_dai2ki_color_normalization/ip/5p375RGB/PS']
+2020-03-25 17:18:31,404 - __main__ - [save dir] /media/prostate_tf1_4_1/main/prostate/analysis/color_normalization/v2_dai2ki_color_normalization/out/20200325test/5p375N/Normalize_per_ROI/P02212
+2020-03-25 17:18:33,118 - __main__ - 
+
+2020-03-25 17:18:33,118 - __main__ - [slide dir] /media/prostate_tf1_4_1/main/prostate/analysis/color_normalization/v2_dai2ki_color_normalization/ip/5p375RGB/PS
+2020-03-25 17:18:33,118 - __main__ - [per slide] 1.708s
+2020-03-25 17:18:33,118 - __main__ - Finish! ( 1.71s )

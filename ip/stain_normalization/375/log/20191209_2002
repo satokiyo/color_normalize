@@ -1,0 +1,39 @@
+2019-12-09 20:02:00,118 - __main__ - [target] /mnt/f/03_Prog/stain_normalization/P02212
+2019-12-09 20:02:00,119 - __main__ - [source list]
+['/mnt/f/02_Data/02_normalize_stain/input/cent375RGB/PF/PF00201',
+ '/mnt/f/02_Data/02_normalize_stain/input/cent375RGB/PF/PF00203',
+ '/mnt/f/02_Data/02_normalize_stain/input/cent375RGB/PF/PF00301',
+ '/mnt/f/02_Data/02_normalize_stain/input/cent375RGB/PF/PF00303',
+ '/mnt/f/02_Data/02_normalize_stain/input/cent375RGB/PF/PF00601',
+ '/mnt/f/02_Data/02_normalize_stain/input/cent375RGB/PF/PF00701',
+ '/mnt/f/02_Data/02_normalize_stain/input/cent375RGB/PF/PF00802']
+2019-12-09 20:02:00,124 - __main__ - [save dir] /mnt/f/02_Data/02_normalize_stain/output/cent375N/PF/Normalize_per_ROI/P02212
+2019-12-09 20:02:04,478 - __main__ - 
+
+2019-12-09 20:02:04,478 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/cent375RGB/PF/PF00201
+2019-12-09 20:02:04,479 - __main__ - [per slide] 4.117s
+2019-12-09 20:02:04,721 - __main__ - 
+
+2019-12-09 20:02:04,722 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/cent375RGB/PF/PF00203
+2019-12-09 20:02:04,723 - __main__ - [per slide] 0.2406s
+2019-12-09 20:02:40,277 - __main__ - 
+
+2019-12-09 20:02:40,278 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/cent375RGB/PF/PF00301
+2019-12-09 20:02:40,278 - __main__ - [per slide] 35.55s
+2019-12-09 20:03:00,943 - __main__ - 
+
+2019-12-09 20:03:00,943 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/cent375RGB/PF/PF00303
+2019-12-09 20:03:00,944 - __main__ - [per slide] 20.66s
+2019-12-09 20:03:23,313 - __main__ - 
+
+2019-12-09 20:03:23,314 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/cent375RGB/PF/PF00601
+2019-12-09 20:03:23,315 - __main__ - [per slide] 22.37s
+2019-12-09 20:03:34,826 - __main__ - 
+
+2019-12-09 20:03:34,826 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/cent375RGB/PF/PF00701
+2019-12-09 20:03:34,827 - __main__ - [per slide] 11.51s
+2019-12-09 20:03:58,055 - __main__ - 
+
+2019-12-09 20:03:58,056 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/cent375RGB/PF/PF00802
+2019-12-09 20:03:58,057 - __main__ - [per slide] 23.23s
+2019-12-09 20:03:58,058 - __main__ - Finish! ( 117.7s )

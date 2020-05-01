@@ -1,0 +1,19 @@
+2020-01-24 11:19:16,363 - __main__ - [target] /mnt/f/03_Prog/stain_normalization/P02212
+2020-01-24 11:19:16,365 - __main__ - [source list]
+['/mnt/f/02_Data/02_normalize_stain/input/3rd_Clear_TestData_Needle/5p375RGB/PR/PR1001N1',
+ '/mnt/f/02_Data/02_normalize_stain/input/3rd_Clear_TestData_Needle/5p375RGB/PR/PR1002N1',
+ '/mnt/f/02_Data/02_normalize_stain/input/3rd_Clear_TestData_Needle/5p375RGB/PR/PR1003N1']
+2020-01-24 11:19:16,370 - __main__ - [save dir] /mnt/f/02_Data/02_normalize_stain/output/3rd_Clear_TestData_Needle/5p375N/PR/Normalize_per_ROI/P02212
+2020-01-24 11:20:53,165 - __main__ - 
+
+2020-01-24 11:20:53,168 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/3rd_Clear_TestData_Needle/5p375RGB/PR/PR1001N1
+2020-01-24 11:20:53,170 - __main__ - [per slide] 94.63s
+2020-01-24 11:22:34,452 - __main__ - 
+
+2020-01-24 11:22:34,454 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/3rd_Clear_TestData_Needle/5p375RGB/PR/PR1002N1
+2020-01-24 11:22:34,456 - __main__ - [per slide] 101.3s
+2020-01-24 11:23:47,519 - __main__ - 
+
+2020-01-24 11:23:47,521 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/3rd_Clear_TestData_Needle/5p375RGB/PR/PR1003N1
+2020-01-24 11:23:47,523 - __main__ - [per slide] 73.06s
+2020-01-24 11:23:47,525 - __main__ - Finish! ( 269.0s )

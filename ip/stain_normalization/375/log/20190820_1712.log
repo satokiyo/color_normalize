@@ -1,0 +1,94 @@
+2019-08-20 17:12:55,473 - __main__ - [target] /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/P02212
+2019-08-20 17:12:55,476 - __main__ - [source list]
+['/mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/PZ1702']
+2019-08-20 17:12:55,479 - __main__ - [save dir] /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/result/Normalize_per_ROI/target-P02212
+2019-08-20 17:12:56,234 - __main__.setup_normalizer - [Fitting values]
+2019-08-20 17:12:56,236 - __main__.setup_normalizer - [target W (OD)]
+array([[0.55806723, 0.72234329, 0.40838848],
+       [0.29010368, 0.84673842, 0.4459528 ]])
+2019-08-20 17:12:56,239 - __main__.setup_normalizer - [target 99 percentile in H]
+array([[2.91112732, 1.21991322]])
+2019-08-20 17:12:56,252 - __main__.ImageGenerator - /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/PZ1702 is local dir...
+2019-08-20 17:12:57,128 - __main__.normalize - Normalizing /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/PZ1702/PZ1702_5924_4776_class_1.jpg
+2019-08-20 17:12:58,472 - __main__ - save /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/result/Normalize_per_ROI/target-P02212/03_data/PZ1702/PZ1702_5924_4776_class_1.jpg
+2019-08-20 17:12:58,503 - __main__.normalize - Normalizing /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/PZ1702/PZ1702_5924_4963_class_1.jpg
+2019-08-20 17:13:00,121 - __main__ - save /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/result/Normalize_per_ROI/target-P02212/03_data/PZ1702/PZ1702_5924_4963_class_1.jpg
+2019-08-20 17:13:00,165 - __main__.normalize - Normalizing /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/PZ1702/PZ1702_5924_5151_class_1.jpg
+2019-08-20 17:13:01,495 - __main__ - save /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/result/Normalize_per_ROI/target-P02212/03_data/PZ1702/PZ1702_5924_5151_class_1.jpg
+2019-08-20 17:13:01,525 - __main__.normalize - Normalizing /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/PZ1702/PZ1702_6111_25588_class_3.jpg
+2019-08-20 17:13:02,844 - __main__ - save /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/result/Normalize_per_ROI/target-P02212/03_data/PZ1702/PZ1702_6111_25588_class_3.jpg
+2019-08-20 17:13:02,874 - __main__.normalize - Normalizing /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/PZ1702/PZ1702_6111_25776_class_3.jpg
+2019-08-20 17:13:04,201 - __main__ - save /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/result/Normalize_per_ROI/target-P02212/03_data/PZ1702/PZ1702_6111_25776_class_3.jpg
+2019-08-20 17:13:04,225 - __main__.normalize - Normalizing /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/PZ1702/PZ1702_6111_4776_class_1.jpg
+2019-08-20 17:13:05,518 - __main__ - save /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/result/Normalize_per_ROI/target-P02212/03_data/PZ1702/PZ1702_6111_4776_class_1.jpg
+2019-08-20 17:13:05,544 - __main__.normalize - Normalizing /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/PZ1702/PZ1702_6111_4963_class_1.jpg
+2019-08-20 17:13:06,849 - __main__ - save /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/result/Normalize_per_ROI/target-P02212/03_data/PZ1702/PZ1702_6111_4963_class_1.jpg
+2019-08-20 17:13:06,882 - __main__.normalize - Normalizing /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/PZ1702/PZ1702_6111_5151_class_1.jpg
+2019-08-20 17:13:08,190 - __main__ - save /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/result/Normalize_per_ROI/target-P02212/03_data/PZ1702/PZ1702_6111_5151_class_1.jpg
+2019-08-20 17:13:08,215 - __main__.normalize - Normalizing /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/PZ1702/PZ1702_6111_5338_class_1.jpg
+2019-08-20 17:13:09,517 - __main__ - save /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/result/Normalize_per_ROI/target-P02212/03_data/PZ1702/PZ1702_6111_5338_class_1.jpg
+2019-08-20 17:13:09,542 - __main__.normalize - Normalizing /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/PZ1702/PZ1702_6111_5526_class_1.jpg
+2019-08-20 17:13:10,867 - __main__ - save /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/result/Normalize_per_ROI/target-P02212/03_data/PZ1702/PZ1702_6111_5526_class_1.jpg
+2019-08-20 17:13:10,918 - __main__.normalize - Normalizing /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/PZ1702/PZ1702_6299_25401_class_3.jpg
+2019-08-20 17:13:12,279 - __main__ - save /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/result/Normalize_per_ROI/target-P02212/03_data/PZ1702/PZ1702_6299_25401_class_3.jpg
+2019-08-20 17:13:12,308 - __main__.normalize - Normalizing /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/PZ1702/PZ1702_6299_25588_class_3.jpg
+2019-08-20 17:13:13,591 - __main__ - save /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/result/Normalize_per_ROI/target-P02212/03_data/PZ1702/PZ1702_6299_25588_class_3.jpg
+2019-08-20 17:13:13,621 - __main__.normalize - Normalizing /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/PZ1702/PZ1702_6299_25776_class_3.jpg
+2019-08-20 17:13:14,907 - __main__ - save /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/result/Normalize_per_ROI/target-P02212/03_data/PZ1702/PZ1702_6299_25776_class_3.jpg
+2019-08-20 17:13:14,942 - __main__.normalize - Normalizing /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/PZ1702/PZ1702_6299_26338_class_2.jpg
+2019-08-20 17:13:16,227 - __main__ - save /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/result/Normalize_per_ROI/target-P02212/03_data/PZ1702/PZ1702_6299_26338_class_2.jpg
+2019-08-20 17:13:16,254 - __main__.normalize - Normalizing /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/PZ1702/PZ1702_6299_26526_class_2.jpg
+2019-08-20 17:13:17,540 - __main__ - save /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/result/Normalize_per_ROI/target-P02212/03_data/PZ1702/PZ1702_6299_26526_class_2.jpg
+2019-08-20 17:13:17,568 - __main__.normalize - Normalizing /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/PZ1702/PZ1702_6299_26713_class_2.jpg
+2019-08-20 17:13:18,852 - __main__ - save /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/result/Normalize_per_ROI/target-P02212/03_data/PZ1702/PZ1702_6299_26713_class_2.jpg
+2019-08-20 17:13:18,878 - __main__.normalize - Normalizing /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/PZ1702/PZ1702_6299_26901_class_2.jpg
+2019-08-20 17:13:20,170 - __main__ - save /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/result/Normalize_per_ROI/target-P02212/03_data/PZ1702/PZ1702_6299_26901_class_2.jpg
+2019-08-20 17:13:20,199 - __main__.normalize - Normalizing /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/PZ1702/PZ1702_6299_4776_class_1.jpg
+2019-08-20 17:13:21,474 - __main__ - save /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/result/Normalize_per_ROI/target-P02212/03_data/PZ1702/PZ1702_6299_4776_class_1.jpg
+2019-08-20 17:13:21,502 - __main__.normalize - Normalizing /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/PZ1702/PZ1702_6299_4963_class_1.jpg
+2019-08-20 17:13:22,808 - __main__ - save /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/result/Normalize_per_ROI/target-P02212/03_data/PZ1702/PZ1702_6299_4963_class_1.jpg
+2019-08-20 17:13:22,834 - __main__.normalize - Normalizing /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/PZ1702/PZ1702_6299_5151_class_1.jpg
+2019-08-20 17:13:24,147 - __main__ - save /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/result/Normalize_per_ROI/target-P02212/03_data/PZ1702/PZ1702_6299_5151_class_1.jpg
+2019-08-20 17:13:24,172 - __main__.normalize - Normalizing /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/PZ1702/PZ1702_6299_5338_class_1.jpg
+2019-08-20 17:13:25,487 - __main__ - save /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/result/Normalize_per_ROI/target-P02212/03_data/PZ1702/PZ1702_6299_5338_class_1.jpg
+2019-08-20 17:13:25,515 - __main__.normalize - Normalizing /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/PZ1702/PZ1702_6299_5526_class_1.jpg
+2019-08-20 17:13:26,819 - __main__ - save /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/result/Normalize_per_ROI/target-P02212/03_data/PZ1702/PZ1702_6299_5526_class_1.jpg
+2019-08-20 17:13:26,846 - __main__.normalize - Normalizing /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/PZ1702/PZ1702_6299_5713_class_1.jpg
+2019-08-20 17:13:28,148 - __main__ - save /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/result/Normalize_per_ROI/target-P02212/03_data/PZ1702/PZ1702_6299_5713_class_1.jpg
+2019-08-20 17:13:28,176 - __main__.normalize - Normalizing /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/PZ1702/PZ1702_6486_26713_class_2.jpg
+2019-08-20 17:13:29,464 - __main__ - save /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/result/Normalize_per_ROI/target-P02212/03_data/PZ1702/PZ1702_6486_26713_class_2.jpg
+2019-08-20 17:13:29,491 - __main__.normalize - Normalizing /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/PZ1702/PZ1702_6486_4963_class_1.jpg
+2019-08-20 17:13:30,798 - __main__ - save /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/result/Normalize_per_ROI/target-P02212/03_data/PZ1702/PZ1702_6486_4963_class_1.jpg
+2019-08-20 17:13:30,825 - __main__.normalize - Normalizing /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/PZ1702/PZ1702_6486_5151_class_1.jpg
+2019-08-20 17:13:32,148 - __main__ - save /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/result/Normalize_per_ROI/target-P02212/03_data/PZ1702/PZ1702_6486_5151_class_1.jpg
+2019-08-20 17:13:32,173 - __main__.normalize - Normalizing /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/PZ1702/PZ1702_6486_5338_class_1.jpg
+2019-08-20 17:13:33,498 - __main__ - save /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/result/Normalize_per_ROI/target-P02212/03_data/PZ1702/PZ1702_6486_5338_class_1.jpg
+2019-08-20 17:13:33,527 - __main__.normalize - Normalizing /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/PZ1702/PZ1702_6486_5526_class_1.jpg
+2019-08-20 17:13:34,845 - __main__ - save /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/result/Normalize_per_ROI/target-P02212/03_data/PZ1702/PZ1702_6486_5526_class_1.jpg
+2019-08-20 17:13:34,871 - __main__.normalize - Normalizing /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/PZ1702/PZ1702_6486_5713_class_1.jpg
+2019-08-20 17:13:36,173 - __main__ - save /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/result/Normalize_per_ROI/target-P02212/03_data/PZ1702/PZ1702_6486_5713_class_1.jpg
+2019-08-20 17:13:36,200 - __main__.normalize - Normalizing /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/PZ1702/PZ1702_6486_5901_class_1.jpg
+2019-08-20 17:13:37,486 - __main__ - save /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/result/Normalize_per_ROI/target-P02212/03_data/PZ1702/PZ1702_6486_5901_class_1.jpg
+2019-08-20 17:13:37,513 - __main__.normalize - Normalizing /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/PZ1702/PZ1702_6486_6088_class_1.jpg
+2019-08-20 17:13:38,819 - __main__ - save /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/result/Normalize_per_ROI/target-P02212/03_data/PZ1702/PZ1702_6486_6088_class_1.jpg
+2019-08-20 17:13:38,846 - __main__.normalize - Normalizing /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/PZ1702/PZ1702_6674_22963_class_3.jpg
+2019-08-20 17:13:40,141 - __main__ - save /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/result/Normalize_per_ROI/target-P02212/03_data/PZ1702/PZ1702_6674_22963_class_3.jpg
+2019-08-20 17:13:40,168 - __main__.normalize - Normalizing /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/PZ1702/PZ1702_6674_23151_class_3.jpg
+2019-08-20 17:13:41,486 - __main__ - save /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/result/Normalize_per_ROI/target-P02212/03_data/PZ1702/PZ1702_6674_23151_class_3.jpg
+2019-08-20 17:13:41,514 - __main__.normalize - Normalizing /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/PZ1702/PZ1702_6674_23338_class_3.jpg
+2019-08-20 17:13:42,814 - __main__ - save /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/result/Normalize_per_ROI/target-P02212/03_data/PZ1702/PZ1702_6674_23338_class_3.jpg
+2019-08-20 17:13:42,840 - __main__.normalize - Normalizing /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/PZ1702/PZ1702_6674_4963_class_1.jpg
+2019-08-20 17:13:44,117 - __main__ - save /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/result/Normalize_per_ROI/target-P02212/03_data/PZ1702/PZ1702_6674_4963_class_1.jpg
+2019-08-20 17:13:44,143 - __main__.normalize - Normalizing /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/PZ1702/PZ1702_6674_5151_class_1.jpg
+2019-08-20 17:13:45,453 - __main__ - save /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/result/Normalize_per_ROI/target-P02212/03_data/PZ1702/PZ1702_6674_5151_class_1.jpg
+2019-08-20 17:13:45,477 - __main__.normalize - Normalizing /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/PZ1702/PZ1702_6674_5338_class_1.jpg
+2019-08-20 17:13:46,788 - __main__ - save /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/result/Normalize_per_ROI/target-P02212/03_data/PZ1702/PZ1702_6674_5338_class_1.jpg
+2019-08-20 17:13:46,814 - __main__.normalize - Normalizing /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/PZ1702/PZ1702_6674_5526_class_1.jpg
+2019-08-20 17:13:48,130 - __main__ - save /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/result/Normalize_per_ROI/target-P02212/03_data/PZ1702/PZ1702_6674_5526_class_1.jpg
+2019-08-20 17:13:48,158 - __main__.normalize - Normalizing /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/PZ1702/PZ1702_6674_5713_class_1.jpg
+2019-08-20 17:13:49,470 - __main__ - save /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/result/Normalize_per_ROI/target-P02212/03_data/PZ1702/PZ1702_6674_5713_class_1.jpg
+2019-08-20 17:13:49,496 - __main__.normalize - Normalizing /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/PZ1702/PZ1702_6674_5901_class_1.jpg
+2019-08-20 17:13:50,790 - __main__ - save /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/result/Normalize_per_ROI/target-P02212/03_data/PZ1702/PZ1702_6674_5901_class_1.jpg
+2019-08-20 17:13:50,815 - __main__.normalize - Normalizing /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/PZ1702/PZ1702_6674_6088_class_1.jpg
+2019-08-20 17:13:52,127 - __main__ - save /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/result/Normalize_per_ROI/target-P02212/03_data/PZ1702/PZ1702_6674_6088_class_1.jpg
+2019-08-20 17:13:52,150 - __main__.normalize - Normalizing /mnt/c/Users/hirotohareyama/Desktop/stain_program/03_data/PZ1702/PZ1702_6674_6276_class_1.jpg

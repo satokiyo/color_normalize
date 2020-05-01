@@ -1,0 +1,279 @@
+2020-01-14 19:07:55,813 - __main__ - [target] /mnt/f/03_Prog/stain_normalization/P02212
+2020-01-14 19:07:55,817 - __main__ - [source list]
+['/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH20102',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH20103',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH20104',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH20106',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH20107',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH20108',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH20109',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH20112',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH20113',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH20201',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH20301',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH20302',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH30101',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH30201',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH30202',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH30205',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH30206',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH30301',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH30303',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH30305',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH30402',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH30502',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH30602',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH30701',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH30702',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH30703',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH30704',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH30705',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH30706',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH30801',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH30802',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH40101',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH40102',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH40103',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH40201',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH40202',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH40203',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH40204',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH40205',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH40206',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH40207',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH40401',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH40403',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH40504',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH40505',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH40601',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH40702',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH40703',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH40801',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH40802',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH40803',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH40805',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH40906',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH40907',
+ '/mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH40908']
+2020-01-14 19:07:55,881 - __main__ - [save dir] /mnt/f/02_Data/02_normalize_stain/output/Add_annotation_PH_TMU_0114/5p375N/PH/Normalize_per_ROI/P02212
+2020-01-14 19:07:58,754 - __main__ - 
+
+2020-01-14 19:07:58,761 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH20102
+2020-01-14 19:07:58,764 - __main__ - [per slide] 1.34s
+2020-01-14 19:08:02,839 - __main__ - 
+
+2020-01-14 19:08:02,841 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH20103
+2020-01-14 19:08:02,843 - __main__ - [per slide] 4.071s
+2020-01-14 19:08:04,013 - __main__ - 
+
+2020-01-14 19:08:04,019 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH20104
+2020-01-14 19:08:04,021 - __main__ - [per slide] 1.168s
+2020-01-14 19:08:07,714 - __main__ - 
+
+2020-01-14 19:08:07,716 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH20106
+2020-01-14 19:08:07,719 - __main__ - [per slide] 3.688s
+2020-01-14 19:08:11,097 - __main__ - 
+
+2020-01-14 19:08:11,099 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH20107
+2020-01-14 19:08:11,101 - __main__ - [per slide] 3.376s
+2020-01-14 19:08:14,941 - __main__ - 
+
+2020-01-14 19:08:14,943 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH20108
+2020-01-14 19:08:14,945 - __main__ - [per slide] 3.838s
+2020-01-14 19:08:19,142 - __main__ - 
+
+2020-01-14 19:08:19,145 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH20109
+2020-01-14 19:08:19,147 - __main__ - [per slide] 4.195s
+2020-01-14 19:08:22,829 - __main__ - 
+
+2020-01-14 19:08:22,831 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH20112
+2020-01-14 19:08:22,833 - __main__ - [per slide] 3.68s
+2020-01-14 19:08:24,194 - __main__ - 
+
+2020-01-14 19:08:24,202 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH20113
+2020-01-14 19:08:24,206 - __main__ - [per slide] 1.36s
+2020-01-14 19:08:28,315 - __main__ - 
+
+2020-01-14 19:08:28,318 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH20201
+2020-01-14 19:08:28,320 - __main__ - [per slide] 4.106s
+2020-01-14 19:08:44,682 - __main__ - 
+
+2020-01-14 19:08:44,684 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH20301
+2020-01-14 19:08:44,686 - __main__ - [per slide] 16.36s
+2020-01-14 19:09:14,761 - __main__ - 
+
+2020-01-14 19:09:14,764 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH20302
+2020-01-14 19:09:14,767 - __main__ - [per slide] 30.07s
+2020-01-14 19:09:18,340 - __main__ - 
+
+2020-01-14 19:09:18,342 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH30101
+2020-01-14 19:09:18,344 - __main__ - [per slide] 3.571s
+2020-01-14 19:09:27,703 - __main__ - 
+
+2020-01-14 19:09:27,706 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH30201
+2020-01-14 19:09:27,708 - __main__ - [per slide] 9.358s
+2020-01-14 19:09:31,026 - __main__ - 
+
+2020-01-14 19:09:31,028 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH30202
+2020-01-14 19:09:31,029 - __main__ - [per slide] 3.316s
+2020-01-14 19:09:37,745 - __main__ - 
+
+2020-01-14 19:09:37,748 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH30205
+2020-01-14 19:09:37,750 - __main__ - [per slide] 6.714s
+2020-01-14 19:09:41,540 - __main__ - 
+
+2020-01-14 19:09:41,543 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH30206
+2020-01-14 19:09:41,544 - __main__ - [per slide] 3.789s
+2020-01-14 19:09:48,297 - __main__ - 
+
+2020-01-14 19:09:48,300 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH30301
+2020-01-14 19:09:48,302 - __main__ - [per slide] 6.751s
+2020-01-14 19:09:52,145 - __main__ - 
+
+2020-01-14 19:09:52,148 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH30303
+2020-01-14 19:09:52,149 - __main__ - [per slide] 3.841s
+2020-01-14 19:09:56,162 - __main__ - 
+
+2020-01-14 19:09:56,165 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH30305
+2020-01-14 19:09:56,166 - __main__ - [per slide] 4.011s
+2020-01-14 19:10:03,407 - __main__ - 
+
+2020-01-14 19:10:03,410 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH30402
+2020-01-14 19:10:03,412 - __main__ - [per slide] 7.239s
+2020-01-14 19:10:07,097 - __main__ - 
+
+2020-01-14 19:10:07,100 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH30502
+2020-01-14 19:10:07,102 - __main__ - [per slide] 3.684s
+2020-01-14 19:10:13,488 - __main__ - 
+
+2020-01-14 19:10:13,491 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH30602
+2020-01-14 19:10:13,492 - __main__ - [per slide] 6.384s
+2020-01-14 19:10:25,268 - __main__ - 
+
+2020-01-14 19:10:25,271 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH30701
+2020-01-14 19:10:25,273 - __main__ - [per slide] 11.77s
+2020-01-14 19:10:32,388 - __main__ - 
+
+2020-01-14 19:10:32,390 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH30702
+2020-01-14 19:10:32,392 - __main__ - [per slide] 7.113s
+2020-01-14 19:10:51,034 - __main__ - 
+
+2020-01-14 19:10:51,036 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH30703
+2020-01-14 19:10:51,038 - __main__ - [per slide] 18.64s
+2020-01-14 19:10:57,560 - __main__ - 
+
+2020-01-14 19:10:57,563 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH30704
+2020-01-14 19:10:57,565 - __main__ - [per slide] 6.521s
+2020-01-14 19:11:06,826 - __main__ - 
+
+2020-01-14 19:11:06,829 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH30705
+2020-01-14 19:11:06,832 - __main__ - [per slide] 9.26s
+2020-01-14 19:11:15,744 - __main__ - 
+
+2020-01-14 19:11:15,746 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH30706
+2020-01-14 19:11:15,748 - __main__ - [per slide] 8.909s
+2020-01-14 19:11:17,052 - __main__ - 
+
+2020-01-14 19:11:17,058 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH30801
+2020-01-14 19:11:17,061 - __main__ - [per slide] 1.303s
+2020-01-14 19:11:26,370 - __main__ - 
+
+2020-01-14 19:11:26,372 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH30802
+2020-01-14 19:11:26,374 - __main__ - [per slide] 9.307s
+2020-01-14 19:11:30,082 - __main__ - 
+
+2020-01-14 19:11:30,085 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH40101
+2020-01-14 19:11:30,087 - __main__ - [per slide] 3.707s
+2020-01-14 19:11:33,497 - __main__ - 
+
+2020-01-14 19:11:33,500 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH40102
+2020-01-14 19:11:33,502 - __main__ - [per slide] 3.409s
+2020-01-14 19:11:37,374 - __main__ - 
+
+2020-01-14 19:11:37,376 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH40103
+2020-01-14 19:11:37,378 - __main__ - [per slide] 3.871s
+2020-01-14 19:11:41,692 - __main__ - 
+
+2020-01-14 19:11:41,694 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH40201
+2020-01-14 19:11:41,696 - __main__ - [per slide] 4.313s
+2020-01-14 19:11:48,691 - __main__ - 
+
+2020-01-14 19:11:48,694 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH40202
+2020-01-14 19:11:48,695 - __main__ - [per slide] 6.994s
+2020-01-14 19:12:17,937 - __main__ - 
+
+2020-01-14 19:12:17,939 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH40203
+2020-01-14 19:12:17,941 - __main__ - [per slide] 29.24s
+2020-01-14 19:12:21,857 - __main__ - 
+
+2020-01-14 19:12:21,860 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH40204
+2020-01-14 19:12:21,862 - __main__ - [per slide] 3.915s
+2020-01-14 19:12:37,639 - __main__ - 
+
+2020-01-14 19:12:37,642 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH40205
+2020-01-14 19:12:37,644 - __main__ - [per slide] 15.77s
+2020-01-14 19:13:00,049 - __main__ - 
+
+2020-01-14 19:13:00,052 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH40206
+2020-01-14 19:13:00,054 - __main__ - [per slide] 22.4s
+2020-01-14 19:13:09,364 - __main__ - 
+
+2020-01-14 19:13:09,366 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH40207
+2020-01-14 19:13:09,369 - __main__ - [per slide] 9.308s
+2020-01-14 19:13:15,815 - __main__ - 
+
+2020-01-14 19:13:15,818 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH40401
+2020-01-14 19:13:15,820 - __main__ - [per slide] 6.445s
+2020-01-14 19:13:22,416 - __main__ - 
+
+2020-01-14 19:13:22,419 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH40403
+2020-01-14 19:13:22,420 - __main__ - [per slide] 6.595s
+2020-01-14 19:13:24,045 - __main__ - 
+
+2020-01-14 19:13:24,051 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH40504
+2020-01-14 19:13:24,054 - __main__ - [per slide] 1.623s
+2020-01-14 19:13:33,214 - __main__ - 
+
+2020-01-14 19:13:33,217 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH40505
+2020-01-14 19:13:33,218 - __main__ - [per slide] 9.156s
+2020-01-14 19:13:36,978 - __main__ - 
+
+2020-01-14 19:13:36,981 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH40601
+2020-01-14 19:13:36,983 - __main__ - [per slide] 3.758s
+2020-01-14 19:13:43,499 - __main__ - 
+
+2020-01-14 19:13:43,502 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH40702
+2020-01-14 19:13:43,504 - __main__ - [per slide] 6.515s
+2020-01-14 19:13:52,751 - __main__ - 
+
+2020-01-14 19:13:52,754 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH40703
+2020-01-14 19:13:52,756 - __main__ - [per slide] 9.245s
+2020-01-14 19:14:04,534 - __main__ - 
+
+2020-01-14 19:14:04,537 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH40801
+2020-01-14 19:14:04,539 - __main__ - [per slide] 11.78s
+2020-01-14 19:14:09,178 - __main__ - 
+
+2020-01-14 19:14:09,181 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH40802
+2020-01-14 19:14:09,183 - __main__ - [per slide] 4.637s
+2020-01-14 19:14:13,052 - __main__ - 
+
+2020-01-14 19:14:13,054 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH40803
+2020-01-14 19:14:13,057 - __main__ - [per slide] 3.866s
+2020-01-14 19:14:19,531 - __main__ - 
+
+2020-01-14 19:14:19,534 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH40805
+2020-01-14 19:14:19,536 - __main__ - [per slide] 6.472s
+2020-01-14 19:14:23,665 - __main__ - 
+
+2020-01-14 19:14:23,668 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH40906
+2020-01-14 19:14:23,670 - __main__ - [per slide] 4.127s
+2020-01-14 19:14:52,903 - __main__ - 
+
+2020-01-14 19:14:52,906 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH40907
+2020-01-14 19:14:52,908 - __main__ - [per slide] 29.23s
+2020-01-14 19:15:08,928 - __main__ - 
+
+2020-01-14 19:15:08,931 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/Add_annotation_PH_TMU_0114/5p375RGB/PH/PH40908
+2020-01-14 19:15:08,932 - __main__ - [per slide] 16.02s
+2020-01-14 19:15:08,934 - __main__ - Finish! ( 431.5s )

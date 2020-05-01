@@ -1,0 +1,114 @@
+2019-12-13 11:28:44,706 - __main__ - [target] /mnt/f/03_Prog/stain_normalization/P02212
+2019-12-13 11:28:44,708 - __main__ - [source list]
+['/mnt/f/02_Data/02_normalize_stain/input/PF1212_add/5p375RGB/PF/PF00901',
+ '/mnt/f/02_Data/02_normalize_stain/input/PF1212_add/5p375RGB/PF/PF00902',
+ '/mnt/f/02_Data/02_normalize_stain/input/PF1212_add/5p375RGB/PF/PF01001',
+ '/mnt/f/02_Data/02_normalize_stain/input/PF1212_add/5p375RGB/PF/PF01102',
+ '/mnt/f/02_Data/02_normalize_stain/input/PF1212_add/5p375RGB/PF/PF01103',
+ '/mnt/f/02_Data/02_normalize_stain/input/PF1212_add/5p375RGB/PF/PF01202',
+ '/mnt/f/02_Data/02_normalize_stain/input/PF1212_add/5p375RGB/PF/PF01203',
+ '/mnt/f/02_Data/02_normalize_stain/input/PF1212_add/5p375RGB/PF/PF01301',
+ '/mnt/f/02_Data/02_normalize_stain/input/PF1212_add/5p375RGB/PF/PF01402',
+ '/mnt/f/02_Data/02_normalize_stain/input/PF1212_add/5p375RGB/PF/PF01601',
+ '/mnt/f/02_Data/02_normalize_stain/input/PF1212_add/5p375RGB/PF/PF01701',
+ '/mnt/f/02_Data/02_normalize_stain/input/PF1212_add/5p375RGB/PF/PF01702',
+ '/mnt/f/02_Data/02_normalize_stain/input/PF1212_add/5p375RGB/PF/PF01801',
+ '/mnt/f/02_Data/02_normalize_stain/input/PF1212_add/5p375RGB/PF/PF01802',
+ '/mnt/f/02_Data/02_normalize_stain/input/PF1212_add/5p375RGB/PF/PF01803',
+ '/mnt/f/02_Data/02_normalize_stain/input/PF1212_add/5p375RGB/PF/PF01901',
+ '/mnt/f/02_Data/02_normalize_stain/input/PF1212_add/5p375RGB/PF/PF02001',
+ '/mnt/f/02_Data/02_normalize_stain/input/PF1212_add/5p375RGB/PF/PF02002',
+ '/mnt/f/02_Data/02_normalize_stain/input/PF1212_add/5p375RGB/PF/PF04501',
+ '/mnt/f/02_Data/02_normalize_stain/input/PF1212_add/5p375RGB/PF/PF04502',
+ '/mnt/f/02_Data/02_normalize_stain/input/PF1212_add/5p375RGB/PF/PF04601',
+ '/mnt/f/02_Data/02_normalize_stain/input/PF1212_add/5p375RGB/PF/PF04701']
+2019-12-13 11:28:44,735 - __main__ - [save dir] /mnt/f/02_Data/02_normalize_stain/output/PF1212_add/5p375N/PF/Normalize_per_ROI/P02212
+2019-12-13 11:28:46,963 - __main__ - 
+
+2019-12-13 11:28:46,966 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/PF1212_add/5p375RGB/PF/PF00901
+2019-12-13 11:28:46,970 - __main__ - [per slide] 1.842s
+2019-12-13 11:28:52,000 - __main__ - 
+
+2019-12-13 11:28:52,003 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/PF1212_add/5p375RGB/PF/PF00902
+2019-12-13 11:28:52,005 - __main__ - [per slide] 5.028s
+2019-12-13 11:28:54,240 - __main__ - 
+
+2019-12-13 11:28:54,242 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/PF1212_add/5p375RGB/PF/PF01001
+2019-12-13 11:28:54,243 - __main__ - [per slide] 2.233s
+2019-12-13 11:28:54,434 - __main__ - 
+
+2019-12-13 11:28:54,447 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/PF1212_add/5p375RGB/PF/PF01102
+2019-12-13 11:28:54,449 - __main__ - [per slide] 0.1885s
+2019-12-13 11:29:30,263 - __main__ - 
+
+2019-12-13 11:29:30,265 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/PF1212_add/5p375RGB/PF/PF01103
+2019-12-13 11:29:30,267 - __main__ - [per slide] 35.81s
+2019-12-13 11:29:32,347 - __main__ - 
+
+2019-12-13 11:29:32,350 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/PF1212_add/5p375RGB/PF/PF01202
+2019-12-13 11:29:32,353 - __main__ - [per slide] 2.079s
+2019-12-13 11:29:35,809 - __main__ - 
+
+2019-12-13 11:29:35,811 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/PF1212_add/5p375RGB/PF/PF01203
+2019-12-13 11:29:35,813 - __main__ - [per slide] 3.454s
+2019-12-13 11:29:39,415 - __main__ - 
+
+2019-12-13 11:29:39,417 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/PF1212_add/5p375RGB/PF/PF01301
+2019-12-13 11:29:39,418 - __main__ - [per slide] 3.6s
+2019-12-13 11:29:39,622 - __main__ - 
+
+2019-12-13 11:29:39,629 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/PF1212_add/5p375RGB/PF/PF01402
+2019-12-13 11:29:39,631 - __main__ - [per slide] 0.2016s
+2019-12-13 11:29:41,354 - __main__ - 
+
+2019-12-13 11:29:41,356 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/PF1212_add/5p375RGB/PF/PF01601
+2019-12-13 11:29:41,359 - __main__ - [per slide] 1.721s
+2019-12-13 11:29:51,730 - __main__ - 
+
+2019-12-13 11:29:51,732 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/PF1212_add/5p375RGB/PF/PF01701
+2019-12-13 11:29:51,733 - __main__ - [per slide] 10.37s
+2019-12-13 11:29:52,009 - __main__ - 
+
+2019-12-13 11:29:52,014 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/PF1212_add/5p375RGB/PF/PF01702
+2019-12-13 11:29:52,016 - __main__ - [per slide] 0.2736s
+2019-12-13 11:29:53,806 - __main__ - 
+
+2019-12-13 11:29:53,808 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/PF1212_add/5p375RGB/PF/PF01801
+2019-12-13 11:29:53,812 - __main__ - [per slide] 1.787s
+2019-12-13 11:29:54,022 - __main__ - 
+
+2019-12-13 11:29:54,025 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/PF1212_add/5p375RGB/PF/PF01802
+2019-12-13 11:29:54,027 - __main__ - [per slide] 0.2085s
+2019-12-13 11:29:54,221 - __main__ - 
+
+2019-12-13 11:29:54,226 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/PF1212_add/5p375RGB/PF/PF01803
+2019-12-13 11:29:54,228 - __main__ - [per slide] 0.1924s
+2019-12-13 11:29:59,056 - __main__ - 
+
+2019-12-13 11:29:59,058 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/PF1212_add/5p375RGB/PF/PF01901
+2019-12-13 11:29:59,060 - __main__ - [per slide] 4.827s
+2019-12-13 11:30:02,492 - __main__ - 
+
+2019-12-13 11:30:02,494 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/PF1212_add/5p375RGB/PF/PF02001
+2019-12-13 11:30:02,497 - __main__ - [per slide] 3.428s
+2019-12-13 11:30:11,233 - __main__ - 
+
+2019-12-13 11:30:11,236 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/PF1212_add/5p375RGB/PF/PF02002
+2019-12-13 11:30:11,238 - __main__ - [per slide] 8.732s
+2019-12-13 11:30:11,497 - __main__ - 
+
+2019-12-13 11:30:11,500 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/PF1212_add/5p375RGB/PF/PF04501
+2019-12-13 11:30:11,501 - __main__ - [per slide] 0.2567s
+2019-12-13 11:30:29,535 - __main__ - 
+
+2019-12-13 11:30:29,538 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/PF1212_add/5p375RGB/PF/PF04502
+2019-12-13 11:30:29,539 - __main__ - [per slide] 18.03s
+2019-12-13 11:30:31,612 - __main__ - 
+
+2019-12-13 11:30:31,614 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/PF1212_add/5p375RGB/PF/PF04601
+2019-12-13 11:30:31,618 - __main__ - [per slide] 2.071s
+2019-12-13 11:30:39,286 - __main__ - 
+
+2019-12-13 11:30:39,291 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/PF1212_add/5p375RGB/PF/PF04701
+2019-12-13 11:30:39,292 - __main__ - [per slide] 7.666s
+2019-12-13 11:30:39,294 - __main__ - Finish! ( 114.2s )

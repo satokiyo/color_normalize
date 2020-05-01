@@ -1,0 +1,61 @@
+2020-01-06 19:55:00,748 - __main__ - [target] /mnt/f/03_Prog/stain_normalization/P02212
+2020-01-06 19:55:00,750 - __main__ - [source list]
+['/mnt/f/02_Data/02_normalize_stain/input/0106_daityou/5p375RGB/PB/PB0106',
+ '/mnt/f/02_Data/02_normalize_stain/input/0106_daityou/5p375RGB/PB/PB0606']
+2020-01-06 19:55:00,753 - __main__ - [save dir] /mnt/f/02_Data/02_normalize_stain/output/0106_daityou/5p375N/PB/Normalize_per_ROI/P02212
+2020-01-06 19:55:01,638 - __main__ - 
+
+2020-01-06 19:55:01,641 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/0106_daityou/5p375RGB/PB/PB0106
+2020-01-06 19:55:01,643 - __main__ - [per slide] 0.8385s
+2020-01-06 19:55:04,972 - __main__ - 
+
+2020-01-06 19:55:04,974 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/0106_daityou/5p375RGB/PB/PB0606
+2020-01-06 19:55:04,976 - __main__ - [per slide] 3.327s
+2020-01-06 19:55:04,978 - __main__ - Finish! ( 4.184s )
+2020-01-06 19:55:08,575 - __main__ - [target] /mnt/f/03_Prog/stain_normalization/P02212
+2020-01-06 19:55:08,578 - __main__ - [source list]
+['/mnt/f/02_Data/02_normalize_stain/input/0106_daityou/5p375RGB/PF/PF03401']
+2020-01-06 19:55:08,580 - __main__ - [save dir] /mnt/f/02_Data/02_normalize_stain/output/0106_daityou/5p375N/PF/Normalize_per_ROI/P02212
+2020-01-06 19:55:22,602 - __main__ - 
+
+2020-01-06 19:55:22,605 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/0106_daityou/5p375RGB/PF/PF03401
+2020-01-06 19:55:22,606 - __main__ - [per slide] 13.92s
+2020-01-06 19:55:22,610 - __main__ - Finish! ( 13.93s )
+2020-01-06 19:55:26,235 - __main__ - [target] /mnt/f/03_Prog/stain_normalization/P02212
+2020-01-06 19:55:26,238 - __main__ - [source list]
+['/mnt/f/02_Data/02_normalize_stain/input/0106_daityou/5p375RGB/PH/PH52202',
+ '/mnt/f/02_Data/02_normalize_stain/input/0106_daityou/5p375RGB/PH/PH52203',
+ '/mnt/f/02_Data/02_normalize_stain/input/0106_daityou/5p375RGB/PH/PH52204',
+ '/mnt/f/02_Data/02_normalize_stain/input/0106_daityou/5p375RGB/PH/PH52704']
+2020-01-06 19:55:26,243 - __main__ - [save dir] /mnt/f/02_Data/02_normalize_stain/output/0106_daityou/5p375N/PH/Normalize_per_ROI/P02212
+2020-01-06 19:55:30,597 - __main__ - 
+
+2020-01-06 19:55:30,600 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/0106_daityou/5p375RGB/PH/PH52202
+2020-01-06 19:55:30,601 - __main__ - [per slide] 4.229s
+2020-01-06 19:55:45,879 - __main__ - 
+
+2020-01-06 19:55:45,882 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/0106_daityou/5p375RGB/PH/PH52203
+2020-01-06 19:55:45,884 - __main__ - [per slide] 15.28s
+2020-01-06 19:55:49,160 - __main__ - 
+
+2020-01-06 19:55:49,163 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/0106_daityou/5p375RGB/PH/PH52204
+2020-01-06 19:55:49,165 - __main__ - [per slide] 3.275s
+2020-01-06 19:55:52,285 - __main__ - 
+
+2020-01-06 19:55:52,287 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/0106_daityou/5p375RGB/PH/PH52704
+2020-01-06 19:55:52,289 - __main__ - [per slide] 3.118s
+2020-01-06 19:55:52,290 - __main__ - Finish! ( 25.93s )
+2020-01-06 19:55:55,900 - __main__ - [target] /mnt/f/03_Prog/stain_normalization/P02212
+2020-01-06 19:55:55,902 - __main__ - [source list]
+['/mnt/f/02_Data/02_normalize_stain/input/0106_daityou/5p375RGB/PK/PK30401',
+ '/mnt/f/02_Data/02_normalize_stain/input/0106_daityou/5p375RGB/PK/PK32002']
+2020-01-06 19:55:55,905 - __main__ - [save dir] /mnt/f/02_Data/02_normalize_stain/output/0106_daityou/5p375N/PK/Normalize_per_ROI/P02212
+2020-01-06 19:56:04,374 - __main__ - 
+
+2020-01-06 19:56:04,376 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/0106_daityou/5p375RGB/PK/PK30401
+2020-01-06 19:56:04,379 - __main__ - [per slide] 8.39s
+2020-01-06 19:56:07,882 - __main__ - 
+
+2020-01-06 19:56:07,885 - __main__ - [slide dir] /mnt/f/02_Data/02_normalize_stain/input/0106_daityou/5p375RGB/PK/PK32002
+2020-01-06 19:56:07,886 - __main__ - [per slide] 3.502s
+2020-01-06 19:56:07,888 - __main__ - Finish! ( 11.91s )
