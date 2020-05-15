@@ -5,24 +5,24 @@
 
 ############ IP : parameter ################################################################
 # Target（パラメータファイル）があるディレクトリ（以降でW,RM_Hを指定しない場合はパラメータを保存するディレクトリ）
-OUT_DIR="/media/prostate/20200423_正規化ツール_iteration固定_例外処理_numThread8/color_normalization_ite_fix_output_exception_flag/v4_dai2ki_color_normalization_modified_version/ip/stain_normalization/375/target_matrices/P02212_5point"
+OUT_DIR="/mnt/c/Users/sato/root/prostate/20200515_color_normalize_01_save_path_fix/color_normalize/ip/stain_normalization/375/target_matrices/P02212_5point"
 
 # Targetの計算済みパラメータファイル
-TARGET_W="/media/prostate/20200423_正規化ツール_iteration固定_例外処理_numThread8/color_normalization_ite_fix_output_exception_flag/v4_dai2ki_color_normalization_modified_version/ip/stain_normalization/375/target_matrices/P02212_5point/W.npy" 
-TARGET_RM_H="/media/prostate/20200423_正規化ツール_iteration固定_例外処理_numThread8/color_normalization_ite_fix_output_exception_flag/v4_dai2ki_color_normalization_modified_version/ip/stain_normalization/375/target_matrices/P02212_5point/RM_H.npy"
+TARGET_W="/mnt/c/Users/sato/root/prostate/20200515_color_normalize_01_save_path_fix/color_normalize/ip/stain_normalization/375/target_matrices/P02212_5point/W.npy" 
+TARGET_RM_H="/mnt/c/Users/sato/root/prostate/20200515_color_normalize_01_save_path_fix/color_normalize/ip/stain_normalization/375/target_matrices/P02212_5point/RM_H.npy"
 # Target画像のディレクトリ（またはファイルパス）
-TARGET_IMAGE="/media/prostate/20200423_正規化ツール_iteration固定_例外処理_numThread8/color_normalization_ite_fix_output_exception_flag/v4_dai2ki_color_normalization_modified_version/ip/stain_normalization/P02212"
+TARGET_IMAGE="/mnt/c/Users/sato/root/prostate/20200515_color_normalize_01_save_path_fix/color_normalize/ip/stain_normalization/P02212"
 
 
 ############ IP : source画像 ################################################################
 # SOURCE画像格納ディレクトリ（FOLDER_ARRAYの更に上の階層のディレクトリを指定）
-UPSTAGE_FOLDER_ARRAY="/media/prostate/20200423_正規化ツール_iteration固定_例外処理_numThread8/color_normalization_ite_fix_output_exception_flag/v4_dai2ki_color_normalization_modified_version/ip/5p375RGB"
+UPSTAGE_FOLDER_ARRAY="/mnt/c/Users/sato/root/prostate/20200515_color_normalize_01_save_path_fix/color_normalize/ip/5p375RGB"
 
 
 ############ OUT : outputディレクトリ ##########################################################
 # アウトプットのフォルダリスト作成
 #UPSTAGE_OUTPUT_FOLDER_ARRAY="/media/prostate/20200414_prostate_normalize_ite_fix_lumithres0.8_out_shorttissue_flag/color_normalization_ite_fix_lumthres0.8_out_shorttissue_flag/v4_dai2ki_color_normalization_modified_version/out/20200414test/5p375N"
-UPSTAGE_OUTPUT_FOLDER_ARRAY="/media/prostate/20200423_正規化ツール_iteration固定_例外処理_numThread8/color_normalization_ite_fix_output_exception_flag/v4_dai2ki_color_normalization_modified_version/out/20200423test/5p375N"
+UPSTAGE_OUTPUT_FOLDER_ARRAY="/mnt/c/Users/sato/root/prostate/20200515_color_normalize_01_save_path_fix/color_normalize/out/20200515test"
 
 #-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#
 
