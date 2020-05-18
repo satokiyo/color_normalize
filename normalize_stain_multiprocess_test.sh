@@ -22,7 +22,7 @@ UPSTAGE_FOLDER_ARRAY="/mnt/c/Users/sato/root/prostate/20200518_color_normalize_s
 ############ OUT : outputディレクトリ ##########################################################
 # アウトプットのフォルダリスト作成
 #UPSTAGE_OUTPUT_FOLDER_ARRAY="/media/prostate/20200414_prostate_normalize_ite_fix_lumithres0.8_out_shorttissue_flag/color_normalization_ite_fix_lumthres0.8_out_shorttissue_flag/v4_dai2ki_color_normalization_modified_version/out/20200414test/5p375N"
-UPSTAGE_OUTPUT_FOLDER_ARRAY="/mnt/c/Users/sato/root/prostate/20200518_color_normalize_single_process_check/color_normalize/out/20200518test"
+UPSTAGE_OUTPUT_FOLDER_ARRAY="/mnt/c/Users/sato/root/prostate/20200518_color_normalize_single_process_check/color_normalize/out/20200518test-1"
 
 #-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#
 

@@ -147,15 +147,11 @@ def calculate_source_matrices(req_queue, out_queue, out_queue_flag1, out_queue_f
         req_queue (multiprocessing.JoinableQueue): 並列処理での共有キュー
     """
 
-###
-# 20200518 for single process ver. from
-#    while True:
-    for _ in range(req_queue.qsize()-1):
-# 20200518 for single process ver. to
-###
+    for _ in range(req_queue.qsize()):
+
         source_ROI = req_queue.get()
         if source_ROI is None:
-            req_queue.task_done()
+#            req_queue.task_done()
             break
         try:
             slide_name = pwsi_gen.get_slide_name(source_ROI)
@@ -169,38 +165,38 @@ def calculate_source_matrices(req_queue, out_queue, out_queue_flag1, out_queue_f
                       slide_name, origin_name, save_dir, lk)
 
             # 細胞数少ないROIの抽出パラメータ
-            vec_thres1_6 = 1.6 # 色強度ベクトルの閾値
-            thres_4_0 = 4.0 # 面積比の閾値
-            sat_thres_25 = 25 # saturationの閾値
-            flag_num = 1 # csv出力の際のフラグ番号
+            #vec_thres1_6 = 1.6 # 色強度ベクトルの閾値
+            #thres_4_0 = 4.0 # 面積比の閾値
+            #sat_thres_25 = 25 # saturationの閾値
+            #flag_num = 1 # csv出力の際のフラグ番号
             
             # norm_Hから各画像の細胞数判定結果csvを出力するプログラム
             # vec1.3,1.4,1.5,1.6,1.7 thres4.0 sat25
-            output_H(source_ROI, norm_H, slide_name, origin_name, save_dir,
-                     out_queue_flag1, vec_thres1_6, thres_4_0, sat_thres_25, flag_num, column_flag)
+            #output_H(source_ROI, norm_H, slide_name, origin_name, save_dir,
+            #         out_queue_flag1, vec_thres1_6, thres_4_0, sat_thres_25, flag_num, column_flag)
 
         except TissueMaskException:
             #この例外が発生したROI画像は正規化されず、正規化後の画像に保存されない。
             #ここでフラグを立てておき、あとでShortTissue_flagと結合して対象外のROIとする。
             #核が少ないフラグを立てる処理はこのROIに対しては行われない
-            new_source_ROI = pathlib.Path(source_ROI)
-            slide_dir = save_dir / origin_name / slide_name
-            image_path = str(slide_dir / new_source_ROI.name)
-            flag = 1
-            out_queue_flag2.put([image_path, flag])
+            #new_source_ROI = pathlib.Path(source_ROI)
+            #slide_dir = save_dir / origin_name / slide_name
+            #image_path = str(slide_dir / new_source_ROI.name)
+            #flag = 1
+            #out_queue_flag2.put([image_path, flag])
             continue
 
         finally:
             # 進捗確認用
-            lk.acquire()
+            #lk.acquire()
             out_queue.put(1)
             if msg:
                 sys.stdout.write('\r' + (' ' * len(msg)))
             msg = msg_fmt.format(done=out_queue.qsize(), total=total_ROIs)
             sys.stdout.write('\r' + msg)
-            lk.release()
+            #lk.release()
 
-            req_queue.task_done()
+            #req_queue.task_done()
 
     return
 
@@ -295,17 +291,24 @@ def main(args):
                 source_ROIs = get_imagefiles(source_slide)
                 total_ROIs = len(source_ROIs)
                 left_ROIs = total_ROIs
-                req_queue = mp.JoinableQueue(maxsize=left_ROIs)
+#                req_queue = mp.JoinableQueue(maxsize=left_ROIs)
+                req_queue = mp.Queue(maxsize=left_ROIs)
                 out_queue = mp.Queue(maxsize=left_ROIs)
                 out_queue_flag1 = mp.Queue(maxsize=left_ROIs)
                 out_queue_flag2 = mp.Queue(maxsize=left_ROIs)
                 processes = []
                 lk = mp.Lock()
-###
-# 20200518 for single process ver. from
                 args=(req_queue, out_queue, out_queue_flag1, out_queue_flag2,
                                                          pwsi_gen, save_dir, lk, total_ROIs, msg, msg_fmt,
-                                                         target_RM_H, target_W, column_flag)
+                                                         target_RM_H, target_W, column_flag)   
+                # request queueに全taskを積む
+                for _ in range(left_ROIs):
+                    req_queue.put(source_ROIs.pop())
+    
+                # request queueにpoison pillを積む
+#                for _ in range(max_workers):
+#                    req_queue.put(None)
+
                 _ = calculate_source_matrices(*args)
 
 
@@ -331,34 +334,32 @@ def main(args):
 #                #task完了を待つ
 #                req_queue.join()
 #
-# 20200518 for single process ver. to
-###
-                #append flag1 : few_cell_flag.csv
-                if not out_queue_flag1.empty():
-                    lflag1 = [out_queue_flag1.get() for _ in range(out_queue_flag1.qsize())]
-                    df_flag1_add = pd.DataFrame(lflag1)
-                    #save flag csvs.
-                    if column_flag == 1:
-                        df_flag1_add.to_csv(csv_path_vec1_6_thres4_sat25, index=False, mode='a', header=False)
-            
-                    elif column_flag == 2:
-                        df_flag1_add.to_csv(csv_path_vec1_6_thres4_sat25, index=False, mode='a', header=False)
+#                #append flag1 : few_cell_flag.csv
+#                if not out_queue_flag1.empty():
+#                    lflag1 = [out_queue_flag1.get() for _ in range(out_queue_flag1.qsize())]
+#                    df_flag1_add = pd.DataFrame(lflag1)
+#                    #save flag csvs.
+#                    if column_flag == 1:
+#                        df_flag1_add.to_csv(csv_path_vec1_6_thres4_sat25, index=False, mode='a', header=False)
+#            
+#                    elif column_flag == 2:
+#                        df_flag1_add.to_csv(csv_path_vec1_6_thres4_sat25, index=False, mode='a', header=False)
 
-                #append flag2 : tissue_mask_exception_flag.csv
-                if not out_queue_flag2.empty(): #if TissueMaskException occured.
-                    lflag2 = [out_queue_flag2.get() for _ in range(out_queue_flag2.qsize())]
-                    df_flag2_add = pd.DataFrame(lflag2)
-                    df_flag2_add.to_csv(path_mask_exp_csv, index=False, mode='a', header=False)
+#                #append flag2 : tissue_mask_exception_flag.csv
+#                if not out_queue_flag2.empty(): #if TissueMaskException occured.
+#                    lflag2 = [out_queue_flag2.get() for _ in range(out_queue_flag2.qsize())]
+#                    df_flag2_add = pd.DataFrame(lflag2)
+#                    df_flag2_add.to_csv(path_mask_exp_csv, index=False, mode='a', header=False)
 
                 elapsed = time.time() - t1
                 logger.info('\n')
                 logger.info('[slide dir] {}'.format(source_slide))
                 logger.info('[per slide] {:.4}s'.format(elapsed))
 
-            #if TissueMaskException has not occured, remove csv.
-            if os.path.exists(path_mask_exp_csv):
-                if pd.read_csv(path_mask_exp_csv).empty:
-                    os.remove(path_mask_exp_csv)
+#            #if TissueMaskException has not occured, remove csv.
+#            if os.path.exists(path_mask_exp_csv):
+#                if pd.read_csv(path_mask_exp_csv).empty:
+#                    os.remove(path_mask_exp_csv)
 
             elapsed = time.time() - t0
             logger.info('Finish! ( {:.4}s )'.format(elapsed))
