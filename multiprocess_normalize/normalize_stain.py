@@ -146,7 +146,13 @@ def calculate_source_matrices(req_queue, out_queue, out_queue_flag1, out_queue_f
         source_ROI: SourceのROI画像パス
         req_queue (multiprocessing.JoinableQueue): 並列処理での共有キュー
     """
-    while True:
+
+###
+# 20200518 for single process ver. from
+#    while True:
+    for _ in range(req_queue.qsize()-1):
+# 20200518 for single process ver. to
+###
         source_ROI = req_queue.get()
         if source_ROI is None:
             req_queue.task_done()
@@ -295,28 +301,38 @@ def main(args):
                 out_queue_flag2 = mp.Queue(maxsize=left_ROIs)
                 processes = []
                 lk = mp.Lock()
+###
+# 20200518 for single process ver. from
+                args=(req_queue, out_queue, out_queue_flag1, out_queue_flag2,
+                                                         pwsi_gen, save_dir, lk, total_ROIs, msg, msg_fmt,
+                                                         target_RM_H, target_W, column_flag)
+                _ = calculate_source_matrices(*args)
 
-               # プロセスの初期駆動
-                for _ in range(max_workers):
-                    p = mp.Process(target=calculate_source_matrices,
-                                   args=(req_queue, out_queue, out_queue_flag1, out_queue_flag2,
-                                         pwsi_gen, save_dir, lk, total_ROIs, msg, msg_fmt,
-                                         target_RM_H, target_W, column_flag))
-                    p.start()
-                    #print("process %d start." % p.pid)
-                    processes.append(p)
-    
-                # request queueに全taskを積む
-                for _ in range(left_ROIs):
-                    req_queue.put(source_ROIs.pop())
-    
-                # request queueにpoison pillを積む
-                for _ in range(max_workers):
-                    req_queue.put(None)
-     
-                #task完了を待つ
-                req_queue.join()
 
+
+#               # プロセスの初期駆動
+#                for _ in range(max_workers):
+#                    p = mp.Process(target=calculate_source_matrices,
+#                                   args=(req_queue, out_queue, out_queue_flag1, out_queue_flag2,
+#                                         pwsi_gen, save_dir, lk, total_ROIs, msg, msg_fmt,
+#                                         target_RM_H, target_W, column_flag))
+#                    p.start()
+#                    #print("process %d start." % p.pid)
+#                    processes.append(p)
+#    
+#                # request queueに全taskを積む
+#                for _ in range(left_ROIs):
+#                    req_queue.put(source_ROIs.pop())
+#    
+#                # request queueにpoison pillを積む
+#                for _ in range(max_workers):
+#                    req_queue.put(None)
+#     
+#                #task完了を待つ
+#                req_queue.join()
+#
+# 20200518 for single process ver. to
+###
                 #append flag1 : few_cell_flag.csv
                 if not out_queue_flag1.empty():
                     lflag1 = [out_queue_flag1.get() for _ in range(out_queue_flag1.qsize())]
